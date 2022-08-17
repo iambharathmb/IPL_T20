@@ -1,0 +1,61 @@
+Match No,TEAMS,TOSS,CHOOSE_TO,GROUND,First_half_score,Second_half_score,RESULT (won_by),Super_over,MOM
+1,CSK vs MI,CSK,BOWL,Sheikh Zayed,162/9,166/5,CSK,0,Ambati Rayudu
+2,DC vs KXIP,KXIP,BOWL,Dubai,157/8,157/8,DC,1,Marcus Stoinis
+3,RCB vs SRH,SRH,BOWL,Dubai,163/5,153/10,RCB,0,Y Chahal
+4,RR vs CSK,CSK,BOWL,Sharjah,216/7,200/6,RR,0,Sanju Samson
+5,MI vs KKR,KKR,BOWL,Sheikh Zayed,195/5,146/9,MI,0,Rohit Sharma
+6,KXIP vs RCB,RCB,BOWL,Dubai,206/3,109/10,KXIP,0,KL Rahul
+7,DC vs CSK,CSK,BOWL,Dubai,175/3,131/7,DC,0,Prithvi Shaw
+8,SRH vs KKR,SRH,BAT,Sheikh Zayed,142/4,145/3,KKR,0,Shubman Gill
+9,KXIP vs RR,RR,BOWL,Sharjah,223/2,226/6,RR,0,Sanju Samson
+10,MI vs RCB,MI,BOWL,Dubai,201/3,201/5,RCB,1,AB de Villiers
+11,SRH vs DC,DC,BOWL,Sheikh Zayed,162/4,147/7,SRH,0,Rashid Khan
+12,KKR vs RR,RR,BOWL,Dubai,174/6,137/9,KKR,0,Shivam Mavi
+13,MI vs KXIP,KXIP,BOWL,Sheikh Zayed,191/4,143/8,MI,0,Rohit Sharma
+14,CSK vs SRH,SRH,BAT,Dubai,164/5,157/5,SRH,0,Priyam Garg
+15,RCB vs RR,RR,BAT,Sheikh Zayed,154/6,158/2,RCB,0,Y Chahal
+16,DC vs KKR,KKR,BOWL,Sharjah,228/4,210/8,DC,0,Shreyas Iyer
+17,MI vs SRH,MI,BAT,Sharjah,208/5,174/7,MI,0,Boult
+18,KXIP vs CSK,KXIP,BAT,Dubai,178/4,181/0,CSK,0,Watson
+19,DC vs RCB,RCB,BOWL,Dubai,196/4,137/9,DC,0,Axar Patel
+20,MI v RR,MI,BAT,Sheikh Zayed,193/4,136/10,MI,0,Suryakumar Yadav
+21,KKR vs CSK,KKR,BAT,Sheikh Zayed,167/10,157/5,KKR,0,Rahul Tripathi
+22,SRH vs KXIP,SRH,BAT,Dubai,201/6,132/10,SRH,0,Bairstow
+23,RR  vs DC,RR,BOWL,Sharjah,184/8,138/10,DC,0,Ashwin
+24,KKR vs KXIP,KKR,BAT,Sheikh Zayed,164/6,162/5,KKR,0,Dinesh Karthik
+25,CSK vs RCB,RCB,BAT,Dubai,169/4,132/8,RCB,0,Virat Kohli
+26,SRH vs RR,SRH,BAT,Dubai,158/4,163/5,RR,0,Rahul Tewatia
+27,MI vs DC,DC,BAT,Sheikh Zayed,162/4,166/5,MI,0,de Kock
+28,RCB vs KKR,RCB,BAT,Sharjah,194/2,112/9,RCB,0,AB de Villiers
+29,CSK vs SRH,CSK,BAT,Dubai,167/6,147/8,CSK,0,Ravindra Jadeja
+30,DC vs RR,DC,BAT,Dubai,161/7,148/8,DC,0,Anrich Nortje
+31,RCB vs KXIP,RCB,BAT,Sharjah,171/6,177/2,KXIP,0,KL Rahul
+32,KKR vs MI,KKR,BAT,Sheikh Zayed,148/5,149/2,MI,0,de Kock
+33,RR vs RCB,RR,BAT,Dubai,177/6,179/3,RCB,0,AB de Villiers
+34,CSK vs DC,CSK,BAT,Sharjah,179/4,185/5,DC,0,Shikhar Dhawan
+35,SRH vs KKR,SRH,BOWL,Sheikh Zayed,163/5,163/6,KKR,1,Lockie Ferguson
+36,MI vs KXIP,MI,BAT,Dubai,176/6,176/6,KXIP,1,KL Rahul
+37,RR vs CSK,CSK,BAT,Sheikh Zayed,125/5,126/3,RR,0,Jos Butler
+38,KXIP vs DC,DC,BAT,Dubai,164/5,167/5,KXIP,0,Shikhar Dhawan
+39,KKR vs RCB,KKR,BAT,Sheikh Zayed,84/8,85/2,RCB,0,Mohammed Siraj
+40,SRH vs RR,SRH,BOWL,Dubai,154/6,156/2,SRH,0,Manish Pandey
+41,CSK vs MI,MI,BOWL,Sharjah,114/9,116/0,MI,0,Boult
+42,KKR vs DC,DC,BOWL,Sheikh Zayed,194/6,135/9,KKR,0,Varun Chakravarthy
+43,KXIP vs SRH,SRH,BOWL,Dubai,126/7,114/10,KXIP,0,Chris Jordan
+44,CSK vs RCB,RCB,BAT,Dubai,145/6,150/2,CSK,0,Ruturaj Gaikwad
+45,MI vs RR,MI,BAT,Sheikh Zayed,195/5,196/2,RR,0,Ben Stokes
+46,KKR vs KXIP,KXIP,BOWL,Sharjah,149/9,150/2,KXIP,0,Chris Gayle
+47,SRH vs DC,DC,BOWL,Dubai,219/2,131/10,SRH,0,W Saha
+48,MI vs RCB,MI,BOWL,Sheikh Zayed,164/6,166/5,MI,0,Suryakumar Yadav
+49,CSK vs KKR,CSK,BOWL,Dubai,172/5,178/4,CSK,0,Ruturaj Gaikwad
+50,KXIP vs RR,RR,BOWL,Sheikh Zayed,185/4,186/3,RR,0,Ben Stokes
+51,MI vs DC,MI,BOWL,Dubai,110/9,111/1,MI,0,Ishan Kishan
+52,RCB vs SRH,SRH,BOWL,Sharjah,120/7,121/5,SRH,0,Sandeep Sharma
+53,CSK vs KXIP,CSK,BOWL,Sheikh Zayed,153/6,154/1,CSK,0,Ruturaj Gaikwad
+54,KKR vs RR,RR,BOWL,Dubai,191/7,131/9,KKR,0,Pat Cummins
+55,RCB vs DC,DC,BOWL,Sheikh Zayed,152/7,154/4,DC,0,Anrich Nortje
+56,SRH vs MI,SRH,BOWL,Sharjah,149/8,151/0,SRH,0,Shahbaz Nadeem
+57,MI vs DC,DC,BOWL,Dubai,200/5,143/8,MI,0,Jasprit Bumrah
+58,SRH vs RCB,SRH,BOWL,Sheikh Zayed,131/7,132/4,SRH,0,Kane Williamson
+59,SRH vs DC,DC,BAT,Sheikh Zayed,189/3,172/8,DC,0,Marcus Stoinis
+60,MI vs DC,DC,BAT,Dubai,156/7,157/5,MI,0,Boult

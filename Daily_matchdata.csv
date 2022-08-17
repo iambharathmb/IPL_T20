@@ -1,0 +1,1322 @@
+ ,Individual_Match No,Player,Team,Opp_Team,RH/LH,Match_Type,Ground,Role,Runs,Wickets,Dream11_ Points,Dismissal
+1,M1,MS Dhoni,CSK,MI,RH,Chasing,Sheikh Zayed,WK,0,,20,NO
+1,M1,Watson,CSK,MI,RH,Chasing,Sheikh Zayed,BAT,4,,17,LBW
+1,M1,Rayudu,CSK,MI,RH,Chasing,Sheikh Zayed,BAT,71,,95,CAUGHT
+1,M1,Du Plesis,CSK,MI,RH,Chasing,Sheikh Zayed,BAT,58,,100,NO
+1,M1,Vijay,CSK,MI,RH,Chasing,Sheikh Zayed,BAT,1,,5,LBW
+1,M1,Jadeja,CSK,MI,LH,Chasing,Sheikh Zayed,ALL,10,2,62,LBW
+1,M1,Sam Curran,CSK,MI,LH,Chasing,Sheikh Zayed,ALL,18,1,68,CAUGHT
+1,M1,Piyush Chawla,CSK,MI,LH,Chasing,Sheikh Zayed,BALL,,1,31,
+1,M1,Deepak Chahar,CSK,MI,RH,Chasing,Sheikh Zayed,BALL,,2,54,
+1,M1,Ngidi,CSK,MI,RH,Chasing,Sheikh Zayed,BALL,,3,77,
+1,M1,Jadhav,CSK,MI,RH,Chasing,Sheikh Zayed,BAT,,,4,
+1,M1,Rohit Sharma,MI,CSK,RH,Defending,Sheikh Zayed,BAT,12,,18,CAUGHT
+1,M1,De Kock,MI,CSK,LH,Defending,Sheikh Zayed,WK,33,,42,CAUGHT
+1,M1,S.Yadav,MI,CSK,RH,Defending,Sheikh Zayed,BAT,17,,23,CAUGHT
+1,M1,Saurabh Tiwary,MI,CSK,LH,Defending,Sheikh Zayed,BAT,42,,51,CAUGHT
+1,M1,Hardik Pandya,MI,CSK,RH,Defending,Sheikh Zayed,ALL,14,,22,CAUGHT
+1,M1,Kieron Pollard,MI,CSK,RH,Defending,Sheikh Zayed,ALL,18,,25,CAUGHT
+1,M1,Krunal Pandya,MI,CSK,LH,Defending,Sheikh Zayed,ALL,3,1,30,CAUGHT
+1,M1,Pattinson,MI,CSK,RH,Defending,Sheikh Zayed,BALL,11,1,50,CAUGHT
+1,M1,Rahul Chahar,MI,CSK,RH,Defending,Sheikh Zayed,BALL,2,1,37,NO
+1,M1,Boult,MI,CSK,LH,Defending,Sheikh Zayed,BALL,0,1,29,BOLD
+1,M1,Bumrah,MI,CSK,RH,Defending,Sheikh Zayed,BALL,5,1,30,NO
+2,M1,P.Shaw,DC,KXIP,RH,Defending,Dubai,BAT,5,,26,CAUGHT
+2,M1,Shikhar Dhawan,DC,KXIP,LH,Defending,Dubai,BAT,0,,2,RUNOUT
+2,M1,Hetmeyer,DC,KXIP,LH,Defending,Dubai,BAT,7,,16,CAUGHT
+2,M1,Shreyas Iyer,DC,KXIP,RH,Defending,Dubai,BAT,39,,57,CAUGHT
+2,M1,Rishabh Pant,DC,KXIP,LH,Defending,Dubai,WK,31,,47,BOLD
+2,M1,Marcus Stoinis,DC,KXIP,RH,Defending,Dubai,ALL,53,2,126,RUNOUT
+2,M1,Axar Patel,DC,KXIP,LH,Defending,Dubai,ALL,6,1,41,CAUGHT
+2,M1,Ashwin,DC,KXIP,RH,Defending,Dubai,BALL,4,2,58,CAUGHT
+2,M1,Rabada,DC,KXIP,LH,Defending,Dubai,BALL,0,2,62,NO
+2,M1,Nortje,DC,KXIP,RH,Defending,Dubai,BALL,3,0,7,NO
+2,M1,Mohit Sharma,DC,KXIP,RH,Defending,Dubai,BALL,,1,23,
+2,M1,KL Rahul,KXIP,DC,RH,Chasing,Dubai,WK,21,,49,BOLD
+2,M1,Mayank Agarwal,KXIP,DC,RH,Chasing,Dubai,BAT,89,,124,CAUGHT
+2,M1,Karun Nair,KXIP,DC,RH,Chasing,Dubai,BAT,1,,5,CAUGHT
+2,M1,Nicolas Pooran,KXIP,DC,LH,Chasing,Dubai,WK,0,,8,BOLD
+2,M1,Glenn Maxwell,KXIP,DC,RH,Chasing,Dubai,ALL,1,,5,CAUGHT
+2,M1,Sarfaraz Khan,KXIP,DC,RH,Chasing,Dubai,BAT,12,,18,CAUGHT
+2,M1,Gowtham,KXIP,DC,RH,Chasing,Dubai,ALL,20,0,31,CAUGHT
+2,M1,Chris Jordan,KXIP,DC,RH,Chasing,Dubai,BALL,5,0,19,CAUGHT
+2,M1,Mohammed Shami,KXIP,DC,RH,Chasing,Dubai,BALL,0,3,93,
+2,M1,Sheldon Cottrell,KXIP,DC,LH,Chasing,Dubai,BALL,,2,56,
+2,M1,Ravi Bishnoi,KXIP,DC,RH,Chasing,Dubai,BALL,,1,31,
+3,M1,Aaron Finch,RCB,SRH,RH,Defending,Dubai,BAT,29,,38,LBW
+3,M1,Devdutt Padikkal,RCB,SRH,LH,Defending,Dubai,BAT,56,,76,BOLD
+3,M1,Virat Kohli,RCB,SRH,RH,Defending,Dubai,BAT,14,,34,CAUGHT
+3,M1,AB de Villiers,RCB,SRH,RH,Defending,Dubai,BAT,51,,71,RUNOUT
+3,M1,Josh Phillipe,RCB,SRH,RH,Defending,Dubai,WK,1,,11,NO
+3,M1,Shivam Dube,RCB,SRH,LH,Defending,Dubai,ALL,7,2,63,RUNOUT
+3,M1,Umesh Yadav,RCB,SRH,RH,Defending,Dubai,BALL,,0,16,
+3,M1,W Sundar,RCB,SRH,LH,Defending,Dubai,ALL,,0,4,
+3,M1,Navdeep Saini,RCB,SRH,RH,Defending,Dubai,BALL,,2,62,
+3,M1,Dale Steyn,RCB,SRH,RH,Defending,Dubai,BALL,,1,27,
+3,M1,Y Chahal,RCB,SRH,RH,Defending,Dubai,BALL,,3,83,
+3,M1,Warner,SRH,RCB,LH,Chasing,Dubai,BAT,6,,11,RUNOUT
+3,M1,Bairstow,SRH,RCB,RH,Chasing,Dubai,WK,61,,101,BOLD
+3,M1,Manish Pandey,SRH,RCB,RH,Chasing,Dubai,BAT,34,,49,CAUGHT
+3,M1,Vijay Shankar,SRH,RCB,RH,Chasing,Dubai,ALL,0,1,27,BOLD
+3,M1,Mitchell Marsh,SRH,RCB,RH,Chasing,Dubai,ALL,0,0,2,CAUGHT
+3,M1,Priyam Garg,SRH,RCB,RH,Chasing,Dubai,BAT,12,,17,BOLD
+3,M1,Abhishek Sharma,SRH,RCB,LH,Chasing,Dubai,BAT,7,1,37,RUNOUT
+3,M1,Rashid Khan,SRH,RCB,RH,Chasing,Dubai,BALL,6,0,19,BOLD
+3,M1,Bhuvaneshwar Kumar,SRH,RCB,RH,Chasing,Dubai,BALL,0,0,4,BOLD
+3,M1,Sandeep Sharma,SRH,RCB,RH,Chasing,Dubai,BALL,9,0,12,CAUGHT
+3,M1,Natarajan,SRH,RCB,LH,Chasing,Dubai,BALL,3,1,32,NO
+4,M1,Yashasvi Jaiswal,RR,CSK,LH,Defending,Sharjah,BAT,6,,11,CAUGHT
+4,M1,Steve Smith,RR,CSK,RH,Defending,Sharjah,BAT,69,,93,CAUGHT
+4,M1,Sanju Samson,RR,CSK,RH,Defending,Sharjah,WK,74,,145,CAUGHT
+4,M1,David Miller,RR,CSK,LH,Defending,Sharjah,BAT,0,,2,RUNOUT
+4,M1,Robin Uthappa,RR,CSK,RH,Defending,Sharjah,BAT,5,,9,CAUGHT
+4,M1,Rahul Tewatia,RR,CSK,LH,Defending,Sharjah,ALL,10,3,88,LBW
+4,M1,Riyag Parag,RR,CSK,RH,Defending,Sharjah,ALL,6,,11,CAUGHT
+4,M1,Tom Curran,RR,CSK,RH,Defending,Sharjah,BALL,10,1,42,NO
+4,M1,Jofra Archer,RR,CSK,RH,Defending,Sharjah,BALL,27,1,64,NO
+4,M1,Shreyas Gopal,RR,CSK,RH,Defending,Sharjah,BALL,,1,27,
+4,M1,Jaydev Unadkat,RR,CSK,LH,Defending,Sharjah,BALL,,0,0,
+4,M2,MS Dhoni,CSK,RR,RH,Chasing,Sharjah,WK,29,,47,NO
+4,M2,Watson,CSK,RR,RH,Chasing,Sharjah,BAT,33,,46,LBW
+4,M2,Rituraj Gaikwad,CSK,RR,RH,Chasing,Sharjah,BAT,0,,8,STUMPING
+4,M2,Du Plesis,CSK,RR,RH,Chasing,Sharjah,BAT,72,,107,CAUGHT
+4,M2,Vijay,CSK,RR,RH,Chasing,Sharjah,BAT,21,,28,CAUGHT
+4,M2,Jadeja,CSK,RR,LH,Chasing,Sharjah,ALL,1,0,3,NO
+4,M2,Sam Curran,CSK,RR,LH,Chasing,Sharjah,ALL,17,3,101,STUMPING
+4,M2,Piyush Chawla,CSK,RR,LH,Chasing,Sharjah,BALL,,1,23,
+4,M2,Deepak Chahar,CSK,RR,RH,Chasing,Sharjah,BALL,,1,45,
+4,M2,Ngidi,CSK,RR,RH,Chasing,Sharjah,BALL,,1,23,
+4,M2,Jadhav,CSK,RR,RH,Chasing,Sharjah,BAT,22,,43,CAUGHT
+5,M2,Rohit Sharma,MI,KKR,RH,Defending,Sheikh Zayed,BAT,80,,107,CAUGHT
+5,M2,De Kock,MI,KKR,LH,Defending,Sheikh Zayed,WK,1,,33,CAUGHT
+5,M2,S.Yadav,MI,KKR,RH,Defending,Sheikh Zayed,BAT,47,,59,RUNOUT
+5,M2,Saurabh Tiwary,MI,KKR,LH,Defending,Sheikh Zayed,BAT,21,,28,CAUGHT
+5,M2,Hardik Pandya,MI,KKR,RH,Defending,Sheikh Zayed,ALL,18,,50,HITWICKET
+5,M2,Kieron Pollard,MI,KKR,RH,Defending,Sheikh Zayed,ALL,13,1,51,NO
+5,M2,Krunal Pandya,MI,KKR,LH,Defending,Sheikh Zayed,ALL,1,,5,NO
+5,M2,Pattinson,MI,KKR,RH,Defending,Sheikh Zayed,BALL,,2,54,
+5,M2,Rahul Chahar,MI,KKR,RH,Defending,Sheikh Zayed,BALL,,2,54,
+5,M2,Boult,MI,KKR,LH,Defending,Sheikh Zayed,BALL,,2,62,
+5,M2,Bumrah,MI,KKR,RH,Defending,Sheikh Zayed,BALL,,2,54,
+5,M1,Sunil Narine,KKR,MI,LH,Chasing,Sheikh Zayed,ALL,7,1,48,CAUGHT
+5,M1,Shubman Gill,KKR,MI,RH,Chasing,Sheikh Zayed,BAT,9,,10,CAUGHT
+5,M1,Nitish Rana,KKR,MI,LH,Chasing,Sheikh Zayed,ALL,24,,32,CAUGHT
+5,M1,Eoin Morgan,KKR,MI,LH,Chasing,Sheikh Zayed,BAT,16,,29,CAUGHT
+5,M1,Dinesh Karthik,KKR,MI,RH,Chasing,Sheikh Zayed,WK,30,,39,LBW
+5,M1,Andre Russell,KKR,MI,RH,Chasing,Sheikh Zayed,ALL,11,1,42,BOLD
+5,M1,Nikhil Naik,KKR,MI,RH,Chasing,Sheikh Zayed,BAT,1,,13,CAUGHT
+5,M1,Pat Cummins,KKR,MI,RH,Chasing,Sheikh Zayed,BALL,33,,56,CAUGHT
+5,M1,Kuldeep Yadav,KKR,MI,LH,Chasing,Sheikh Zayed,BALL,1,,3,NO
+5,M1,Sandeep Warrier,KKR,MI,RH,Chasing,Sheikh Zayed,BALL,,,-2,
+5,M1,Shivam Mavi,KKR,MI,RH,Chasing,Sheikh Zayed,BALL,9,2,72,STUMPING
+6,M2,KL Rahul,KXIP,RCB,RH,Defending,Dubai,WK,132,,180,NO
+6,M2,Mayank Agarwal,KXIP,RCB,RH,Defending,Dubai,BAT,26,,42,BOLD
+6,M2,Nicolas Pooran,KXIP,RCB,LH,Defending,Dubai,WK,17,,22,CAUGHT
+6,M2,Glenn Maxwell,KXIP,RCB,RH,Defending,Dubai,ALL,5,1,36,CAUGHT
+6,M2,Karun Nair,KXIP,RCB,RH,Defending,Dubai,BAT,15,,21,NO
+6,M2,Sarfaraz Khan,KXIP,RCB,RH,Defending,Dubai,BAT,,,12,
+6,M2,James Neesham,KXIP,RCB,LH,Defending,Dubai,ALL,,,4,
+6,M2,Murugan Ashwin,KXIP,RCB,RH,Defending,Dubai,BALL,,3,79,
+6,M2,Mohammed Shami,KXIP,RCB,RH,Defending,Dubai,BALL,,1,33,
+6,M2,Sheldon Cottrell,KXIP,RCB,LH,Defending,Dubai,BALL,,2,56,
+6,M2,Ravi Bishnoi,KXIP,RCB,RH,Defending,Dubai,BALL,,3,95,
+6,M2,Aaron Finch,RCB,KXIP,RH,Chasing,Dubai,BAT,20,,35,BOLD
+6,M2,Devdutt Padikkal,RCB,KXIP,LH,Chasing,Dubai,BAT,1,,5,CAUGHT
+6,M2,Virat Kohli,RCB,KXIP,RH,Chasing,Dubai,BAT,1,,5,CAUGHT
+6,M2,AB de Villiers,RCB,KXIP,RH,Chasing,Dubai,BAT,28,,46,CAUGHT
+6,M2,Josh Phillipe,RCB,KXIP,RH,Chasing,Dubai,WK,0,,2,LBW
+6,M2,Shivam Dube,RCB,KXIP,LH,Chasing,Dubai,ALL,12,2,64,BOLD
+6,M2,Umesh Yadav,RCB,KXIP,RH,Chasing,Dubai,BALL,0,0,-2,BOLD
+6,M2,W Sundar,RCB,KXIP,LH,Chasing,Dubai,ALL,30,0,38,CAUGHT
+6,M2,Navdeep Saini,RCB,KXIP,RH,Chasing,Dubai,BALL,6,0,9,BOLD
+6,M2,Dale Steyn,RCB,KXIP,RH,Chasing,Dubai,BALL,1,0,-1,NO
+6,M2,Y Chahal,RCB,KXIP,RH,Chasing,Dubai,BALL,1,1,30,LBW
+7,M3,MS Dhoni,CSK,DC,RH,Chasing,Sharjah,WK,15,,41,CAUGHT
+7,M3,Watson,CSK,DC,RH,Chasing,Sharjah,BAT,14,,21,CAUGHT
+7,M3,Rituraj Gaikwad,CSK,DC,RH,Chasing,Sharjah,BAT,5,,5,RUNOUT
+7,M3,Du Plesis,CSK,DC,RH,Chasing,Sharjah,BAT,43,,51,CAUGHT
+7,M3,Vijay,CSK,DC,RH,Chasing,Sharjah,BAT,10,,13,CAUGHT
+7,M3,Jadeja,CSK,DC,LH,Chasing,Sharjah,ALL,12,0,13,NO
+7,M3,Sam Curran,CSK,DC,LH,Chasing,Sharjah,ALL,1,1,30,NO
+7,M3,Piyush Chawla,CSK,DC,LH,Chasing,Sharjah,BALL,,2,54,
+7,M3,Deepak Chahar,CSK,DC,RH,Chasing,Sharjah,BALL,,0,2,
+7,M3,Josh Hazlewood,CSK,DC,RH,Chasing,Sharjah,BALL,,0,4,
+7,M3,Jadhav,CSK,DC,RH,Chasing,Sharjah,BAT,26,,33,
+7,M2,P.Shaw,DC,CSK,RH,Defending,Dubai,BAT,64,,87,STUMPING
+7,M2,Shikhar Dhawan,DC,CSK,LH,Defending,Dubai,BAT,35,,44,LBW
+7,M2,Hetmeyer,DC,CSK,LH,Defending,Dubai,BAT,,,12,
+7,M2,Shreyas Iyer,DC,CSK,RH,Defending,Dubai,BAT,26,,31,CAUGHT
+7,M2,Rishabh Pant,DC,CSK,LH,Defending,Dubai,WK,37,,68,NO
+7,M2,Marcus Stoinis,DC,CSK,RH,Defending,Dubai,ALL,5,,10,NO
+7,M2,Axar Patel,DC,CSK,LH,Defending,Dubai,ALL,,1,39,
+7,M2,Amit Mishra,DC,CSK,RH,Defending,Dubai,BALL,,0,14,
+7,M2,Rabada,DC,CSK,RH,Defending,Dubai,BALL,,3,87,
+7,M2,Nortje,DC,CSK,RH,Defending,Dubai,BALL,,2,56,
+7,M2,Avesh Khan,DC,CSK,RH,Defending,Dubai,BALL,,0,0,
+8,M2,Warner,SRH,KKR,LH,Defending,Sheikh Zayed,BAT,36,,52,CAUGHT
+8,M2,Bairstow,SRH,KKR,RH,Defending,Sheikh Zayed,WK,5,,5,BOLD
+8,M2,Manish Pandey,SRH,KKR,RH,Defending,Sheikh Zayed,BAT,51,,70,CAUGHT
+8,M2,W Saha,SRH,KKR,RH,Defending,Sheikh Zayed,WK,30,,45,RUNOUT
+8,M2,Mohammed Nabi,SRH,KKR,RH,Defending,Sheikh Zayed,ALL,11,0,19,NO
+8,M2,Priyam Garg,SRH,KKR,RH,Defending,Sheikh Zayed,BAT,,,4,
+8,M2,Abhishek Sharma,SRH,KKR,LH,Defending,Sheikh Zayed,BAT,2,0,6,NO
+8,M2,Rashid Khan,SRH,KKR,RH,Defending,Sheikh Zayed,BALL,,1,29,
+8,M2,Bhuvaneshwar Kumar,SRH,KKR,RH,Defending,Sheikh Zayed,BALL,,0,2,
+8,M2,Khaleel Ahmed,SRH,KKR,LH,Defending,Sheikh Zayed,BALL,,1,27,
+8,M2,Natarajan,SRH,KKR,LH,Defending,Sheikh Zayed,BALL,,1,27,
+8,M2,Sunil Narine,KKR,SRH,LH,Chasing,Sheikh Zayed,ALL,0,0,2,CAUGHT
+8,M2,Shubman Gill,KKR,SRH,RH,Chasing,Sheikh Zayed,BAT,70,,91,NO
+8,M2,Nitish Rana,KKR,SRH,LH,Chasing,Sheikh Zayed,ALL,26,,36,CAUGHT
+8,M2,Eoin Morgan,KKR,SRH,LH,Chasing,Sheikh Zayed,BAT,42,,53,NO
+8,M2,Dinesh Karthik,KKR,SRH,RH,Chasing,Sheikh Zayed,WK,0,,8,LBW
+8,M2,Andre Russell,KKR,SRH,RH,Chasing,Sheikh Zayed,ALL,,1,37,
+8,M2,Kamlesh Nagarkoti,KKR,SRH,RH,Chasing,Sheikh Zayed,BALL,,0,4,
+8,M2,Pat Cummins,KKR,SRH,RH,Chasing,Sheikh Zayed,BALL,,1,39,
+8,M2,Kuldeep Yadav,KKR,SRH,LH,Chasing,Sheikh Zayed,BALL,,0,4,
+8,M2,Varun Chakravarthy,KKR,SRH,RH,Chasing,Sheikh Zayed,BALL,,1,37,
+8,M2,Shivam Mavi,KKR,SRH,RH,Chasing,Sheikh Zayed,BALL,,0,4,
+9,M2,Jos Butler,RR,KXIP,RH,Chasing,Sharjah,WK,4,,8,CAUGHT
+9,M2,Steve Smith,RR,KXIP,RH,Chasing,Sharjah,BAT,50,,73,CAUGHT
+9,M2,Sanju Samson,RR,KXIP,RH,Chasing,Sharjah,WK,85,,123,CAUGHT
+9,M2,Robin Uthappa,RR,KXIP,RH,Chasing,Sharjah,BAT,9,,15,CAUGHT
+9,M2,Rahul Tewatia,RR,KXIP,LH,Chasing,Sharjah,ALL,53,0,79,CAUGHT
+9,M2,Riyag Parag,RR,KXIP,RH,Chasing,Sharjah,ALL,0,,2,BOLD
+9,M2,Tom Curran,RR,KXIP,RH,Chasing,Sharjah,BALL,4,1,30,NO
+9,M2,Jofra Archer,RR,KXIP,RH,Chasing,Sharjah,BALL,13,0,15,NO
+9,M2,Shreyas Gopal,RR,KXIP,RH,Chasing,Sharjah,BALL,,0,8,
+9,M2,Jaydev Unadkat,RR,KXIP,LH,Chasing,Sharjah,BALL,,0,2,
+9,M2,Ankit Rajpoot,RR,KXIP,RH,Chasing,Sharjah,BALL,,1,27,
+9,M3,KL Rahul,KXIP,RR,RH,Defending,Sharjah,WK,69,,98,CAUGHT
+9,M3,Mayank Agarwal,KXIP,RR,RH,Defending,Sharjah,BAT,106,,158,CAUGHT
+9,M3,Nicolas Pooran,KXIP,RR,LH,Defending,Sharjah,WK,25,,44,NO
+9,M3,Glenn Maxwell,KXIP,RR,RH,Defending,Sharjah,ALL,13,0,17,NO
+9,M3,Karun Nair,KXIP,RR,RH,Defending,Sharjah,BAT,,,4,
+9,M3,Sarfaraz Khan,KXIP,RR,RH,Defending,Sharjah,BAT,,,12,
+9,M3,James Neesham,KXIP,RR,LH,Defending,Sharjah,ALL,,1,27,
+9,M3,Murugan Ashwin,KXIP,RR,RH,Defending,Sharjah,BALL,,1,29,
+9,M3,Mohammed Shami,KXIP,RR,RH,Defending,Sharjah,BALL,,3,81,
+9,M3,Sheldon Cottrell,KXIP,RR,LH,Defending,Sharjah,BALL,,1,23,
+9,M3,Ravi Bishnoi,KXIP,RR,RH,Defending,Sharjah,BALL,,0,4,
+10,M3,Devdutt Padikkal,RCB,MI,LH,Defending,Dubai,BAT,54,,83,CAUGHT
+10,M3,Aaron Finch,RCB,MI,RH,Defending,Dubai,BAT,52,,73,CAUGHT
+10,M3,Virat Kohli,RCB,MI,RH,Defending,Dubai,BAT,3,,1,CAUGHT
+10,M3,AB de Villiers,RCB,MI,RH,Defending,Dubai,WK,55,,87,NO
+10,M3,Shivam Dube,RCB,MI,LH,Defending,Dubai,ALL,27,,38,NO
+10,M3,W Sundar,RCB,MI,LH,Defending,Dubai,ALL,,1,35,
+10,M3,Isuru Udana,RCB,MI,LH,Defending,Dubai,BALL,,2,48,
+10,M3,Gurkeerat Singh,RCB,MI,RH,Defending,Dubai,ALL,,,4,
+10,M3,Navdeep Saini,RCB,MI,RH,Defending,Dubai,BALL,,0,0,
+10,M3,Adam Zampa,RCB,MI,RH,Defending,Dubai,BALL,,1,23,
+10,M3,Y Chahal,RCB,MI,RH,Defending,Dubai,BALL,,1,23,
+10,M3,Rohit Sharma,MI,RCB,RH,Chasing,Dubai,BAT,8,,22,CAUGHT
+10,M3,De Kock,MI,RCB,LH,Chasing,Dubai,WK,14,,19,CAUGHT
+10,M3,S.Yadav,MI,RCB,RH,Chasing,Dubai,BAT,0,,2,CAUGHT
+10,M3,Ishan Kishan,MI,RCB,LH,Chasing,Dubai,WK,99,,131,CAUGHT
+10,M3,Hardik Pandya,MI,RCB,RH,Chasing,Dubai,ALL,15,,21,CAUGHT
+10,M3,Kieron Pollard,MI,RCB,RH,Chasing,Dubai,ALL,60,0,101,NO
+10,M3,Krunal Pandya,MI,RCB,LH,Chasing,Dubai,ALL,0,0,4,NO
+10,M3,Pattinson,MI,RCB,RH,Chasing,Dubai,BALL,,0,-2,
+10,M3,Rahul Chahar,MI,RCB,RH,Chasing,Dubai,BALL,,1,29,
+10,M3,Boult,MI,RCB,LH,Chasing,Dubai,BALL,,2,54,
+10,M3,Bumrah,MI,RCB,RH,Chasing,Dubai,BALL,,0,0,
+11,M3,Warner,SRH,DC,LH,Defending,Sheikh Zayed,BAT,45,,56,CAUGHT
+11,M3,Bairstow,SRH,DC,RH,Defending,Sheikh Zayed,WK,53,,85,CAUGHT
+11,M3,Manish Pandey,SRH,DC,RH,Defending,Sheikh Zayed,BAT,3,,15,CAUGHT
+11,M3,Kane Williamson,SRH,DC,RH,Defending,Sheikh Zayed,BAT,41,,50,CAUGHT
+11,M3,Abdul Samad,SRH,DC,RH,Defending,Sheikh Zayed,BAT,12,,27,NO
+11,M3,Abhishek Sharma,SRH,DC,LH,Defending,Sheikh Zayed,ALL,1,0,5,NO
+11,M3,Priyam Garg,SRH,DC,RH,Defending,Sheikh Zayed,BAT,,,12, 
+11,M3,Rashid Khan,SRH,DC,RH,Defending,Sheikh Zayed,BALL,,3,85,
+11,M3,Bhuvaneshwar Kumar,SRH,DC,RH,Defending,Sheikh Zayed,BALL,,2,54,
+11,M3,Natarajan,SRH,DC,LH,Defending,Sheikh Zayed,BALL,,1,29,
+11,M3,Khaleel Ahmed,SRH,DC,LH,Defending,Sheikh Zayed,BALL,,1,25,
+11,M3,P.Shaw,DC,SRH,RH,Chasing,Sheikh Zayed,BAT,2,,6,CAUGHT
+11,M3,Shikhar Dhawan,DC,SRH,LH,Chasing,Sheikh Zayed,BAT,34,,42,CAUGHT
+11,M3,Hetmeyer,DC,SRH,LH,Chasing,Sheikh Zayed,BAT,21,,29,CAUGHT
+11,M3,Shreyas Iyer,DC,SRH,RH,Chasing,Sheikh Zayed,BAT,17,,23,CAUGHT
+11,M3,Rishabh Pant,DC,SRH,LH,Chasing,Sheikh Zayed,WK,28,,45,CAUGHT
+11,M3,Marcus Stoinis,DC,SRH,RH,Chasing,Sheikh Zayed,ALL,11,0,16,LBW
+11,M3,Axar Patel,DC,SRH,LH,Chasing,Sheikh Zayed,ALL,5,0,17,BOLD
+11,M3,Amit Mishra,DC,SRH,RH,Chasing,Sheikh Zayed,BALL,,2,54,
+11,M3,Rabada,DC,SRH,RH,Chasing,Sheikh Zayed,BALL,15,2,82,NO
+11,M3,Nortje,DC,SRH,RH,Chasing,Sheikh Zayed,BALL,3,0,13,NO
+11,M3,Ishant Sharma,DC,SRH,RH,Chasing,Sheikh Zayed,BALL,,0,4,
+12,M3,Jos Butler,RR,KKR,RH,Chasing,Dubai,WK,21,,38,CAUGHT
+12,M3,Steve Smith,RR,KKR,RH,Chasing,Dubai,BAT,3,,7,CAUGHT
+12,M3,Sanju Samson,RR,KKR,RH,Chasing,Dubai,WK,8,,21,CAUGHT
+12,M3,Robin Uthappa,RR,KKR,RH,Chasing,Dubai,BAT,2,,6,CAUGHT
+12,M3,Rahul Tewatia,RR,KKR,LH,Chasing,Dubai,ALL,14,1,45,BOLD
+12,M3,Riyag Parag,RR,KKR,RH,Chasing,Dubai,ALL,1,0,13,CAUGHT
+12,M3,Tom Curran,RR,KKR,RH,Chasing,Dubai,BALL,54,1,97,NO
+12,M3,Jofra Archer,RR,KKR,RH,Chasing,Dubai,BALL,6,2,74,CAUGHT
+12,M3,Shreyas Gopal,RR,KKR,RH,Chasing,Dubai,BALL,5,0,5,CAUGHT
+12,M3,Jaydev Unadkat,RR,KKR,LH,Chasing,Dubai,BALL,9,1,46,CAUGHT
+12,M3,Ankit Rajpoot,RR,KKR,RH,Chasing,Dubai,BALL,7,1,36,NO
+12,M3,Sunil Narine,KKR,RR,LH,Defending,Dubai,ALL,15,1,54,BOLD
+12,M3,Shubman Gill,KKR,RR,RH,Defending,Dubai,BAT,47,,66,CAUGHT
+12,M3,Nitish Rana,KKR,RR,LH,Defending,Dubai,ALL,22,,30,CAUGHT
+12,M3,Eoin Morgan,KKR,RR,LH,Defending,Dubai,BAT,34,,43,NO
+12,M3,Dinesh Karthik,KKR,RR,RH,Defending,Dubai,WK,1,,21,CAUGHT
+12,M3,Andre Russell,KKR,RR,RH,Defending,Dubai,ALL,24,,34,CAUGHT
+12,M3,Kamlesh Nagarkoti,KKR,RR,RH,Defending,Dubai,BALL,8,2,79,NO
+12,M3,Pat Cummins,KKR,RR,RH,Defending,Dubai,BALL,12,1,46,CAUGHT
+12,M3,Kuldeep Yadav,KKR,RR,LH,Defending,Dubai,BALL,,1,29,
+12,M3,Varun Chakravarthy,KKR,RR,RH,Defending,Dubai,BALL,,2,62,
+12,M3,Shivam Mavi,KKR,RR,RH,Defending,Dubai,BALL,,2,64,
+13,M4,Rohit Sharma,MI,KXIP,RH,Defending,Sheikh Zayed,BAT,70,,96,CAUGHT
+13,M4,De Kock,MI,KXIP,LH,Defending,Sheikh Zayed,WK,0,,10,BOLD
+13,M4,S.Yadav,MI,KXIP,RH,Defending,Sheikh Zayed,BAT,10,,32,RUNOUT
+13,M4,Ishan Kishan,MI,KXIP,LH,Defending,Sheikh Zayed,WK,28,,35,CAUGHT
+13,M4,Hardik Pandya,MI,KXIP,RH,Defending,Sheikh Zayed,ALL,30,,41,NO
+13,M4,Kieron Pollard,MI,KXIP,RH,Defending,Sheikh Zayed,ALL,47,,62,NO
+13,M4,Krunal Pandya,MI,KXIP,LH,Defending,Sheikh Zayed,ALL,,1,29,
+13,M4,Pattinson,MI,KXIP,RH,Defending,Sheikh Zayed,BALL,,2,54,
+13,M4,Rahul Chahar,MI,KXIP,RH,Defending,Sheikh Zayed,BALL,,2,54,
+13,M4,Boult,MI,KXIP,LH,Defending,Sheikh Zayed,BALL,,1,33,
+13,M4,Bumrah,MI,KXIP,RH,Defending,Sheikh Zayed,BALL,,2,58,
+13,M4,KL Rahul,KXIP,MI,RH,Chasing,Sheikh Zayed,WK,17,,22,BOLD
+13,M4,Mayank Agarwal,KXIP,MI,RH,Chasing,Sheikh Zayed,BAT,25,,32,BOLD
+13,M4,Nicolas Pooran,KXIP,MI,LH,Chasing,Sheikh Zayed,WK,44,,55,CAUGHT
+13,M4,Glenn Maxwell,KXIP,MI,RH,Chasing,Sheikh Zayed,ALL,11,,13,CAUGHT
+13,M4,Karun Nair,KXIP,MI,RH,Chasing,Sheikh Zayed,BAT,0,,10,BOLD
+13,M4,Sarfaraz Khan,KXIP,MI,RH,Chasing,Sheikh Zayed,BAT,7,,12,LBW
+13,M4,James Neesham,KXIP,MI,LH,Chasing,Sheikh Zayed,ALL,7,0,13,CAUGHT
+13,M4,Gowtham,KXIP,MI,RH,Chasing,Sheikh Zayed,BALL,22,1,49,NO
+13,M4,Mohammed Shami,KXIP,MI,RH,Chasing,Sheikh Zayed,BALL,2,1,41,NO
+13,M4,Sheldon Cottrell,KXIP,MI,LH,Chasing,Sheikh Zayed,BALL,,1,39,
+13,M4,Ravi Bishnoi,KXIP,MI,RH,Chasing,Sheikh Zayed,BALL,1,0,3,CAUGHT
+14,M4,Warner,SRH,CSK,LH,Defending,Dubai,BAT,28,,43,CAUGHT
+14,M4,Bairstow,SRH,CSK,RH,Defending,Dubai,WK,0,,8,BOLD
+14,M4,Manish Pandey,SRH,CSK,RH,Defending,Dubai,BAT,29,,38,CAUGHT
+14,M4,Kane Williamson,SRH,CSK,RH,Defending,Dubai,BAT,9,,12,RUNOUT
+14,M4,Abdul Samad,SRH,CSK,RH,Defending,Dubai,ALL,8,1,41,NO
+14,M4,Abhishek Sharma,SRH,CSK,LH,Defending,Dubai,ALL,31,0,41,CAUGHT
+14,M4,Priyam Garg,SRH,CSK,RH,Defending,Dubai,BAT,51,,77,NO
+14,M4,Rashid Khan,SRH,CSK,RH,Defending,Dubai,BALL,,0,10,
+14,M4,Bhuvaneshwar Kumar,SRH,CSK,RH,Defending,Dubai,BALL,,1,29,
+14,M4,Natarajan,SRH,CSK,LH,Defending,Dubai,BALL,,2,50,
+14,M4,Khaleel Ahmed,SRH,CSK,LH,Defending,Dubai,BALL,,0,4,
+14,M4,Watson,CSK,SRH,RH,Chasing,Dubai,BAT,1,,5,BOLD
+14,M4,Rayudu,CSK,SRH,RH,Chasing,Dubai,BAT,8,,19,BOLD
+14,M4,Du Plesis,CSK,SRH,RH,Chasing,Dubai,BAT,22,,38,RUNOUT
+14,M4,MS Dhoni,CSK,SRH,RH,Chasing,Dubai,WK,47,,71,NO
+14,M4,Jadeja,CSK,SRH,LH,Chasing,Dubai,ALL,50,0,71,CAUGHT
+14,M4,Sam Curran,CSK,SRH,LH,Chasing,Dubai,ALL,15,0,25,NO
+14,M4,Piyush Chawla,CSK,SRH,LH,Chasing,Dubai,BALL,,1,29,
+14,M4,Deepak Chahar,CSK,SRH,RH,Chasing,Dubai,BALL,,2,54,
+14,M4,Jadhav,CSK,SRH,RH,Chasing,Dubai,BAT,3,,1,CAUGHT
+14,M4,D Bravo,CSK,SRH,RH,Chasing,Dubai,ALL,,0,4,
+14,M4,S Thakur,CSK,SRH,RH,Chasing,Dubai,BALL,,1,29,
+15,M4,Devdutt Padikkal,RCB,RR,LH,Chasing,Sheikh Zayed,BAT,63,,99,BOLD
+15,M4,Aaron Finch,RCB,RR,RH,Chasing,Sheikh Zayed,BAT,8,,22,BOLD
+15,M4,Virat Kohli,RCB,RR,RH,Chasing,Sheikh Zayed,BAT,72,,95,NO
+15,M4,AB de Villiers,RCB,RR,RH,Chasing,Sheikh Zayed,WK,12,,17,NO
+15,M4,Shivam Dube,RCB,RR,LH,Chasing,Sheikh Zayed,ALL,,0,4,
+15,M4,W Sundar,RCB,RR,LH,Chasing,Sheikh Zayed,ALL,,0,6,
+15,M4,Isuru Udana,RCB,RR,LH,Chasing,Sheikh Zayed,BALL,,2,58,
+15,M4,Gurkeerat Singh,RCB,RR,RH,Chasing,Sheikh Zayed,ALL,,,4,
+15,M4,Navdeep Saini,RCB,RR,RH,Chasing,Sheikh Zayed,BALL,,1,35,
+15,M4,Adam Zampa,RCB,RR,RH,Chasing,Sheikh Zayed,BALL,,0,2,
+15,M4,Y Chahal,RCB,RR,RH,Chasing,Sheikh Zayed,BALL,,3,89,
+15,M4,Jos Butler,RR,RCB,RH,Defending,Sheikh Zayed,WK,22,,31,CAUGHT
+15,M4,Steve Smith,RR,RCB,RH,Defending,Sheikh Zayed,BAT,5,,10,BOLD
+15,M4,Sanju Samson,RR,RCB,RH,Defending,Sheikh Zayed,WK,4,,9,CAUGHT
+15,M4,Robin Uthappa,RR,RCB,RH,Defending,Sheikh Zayed,BAT,17,,22,CAUGHT
+15,M4,Rahul Tewatia,RR,RCB,LH,Defending,Sheikh Zayed,ALL,24,0,34,NO
+15,M4,Riyag Parag,RR,RCB,RH,Defending,Sheikh Zayed,ALL,16,0,21,CAUGHT
+15,M4,Tom Curran,RR,RCB,RH,Defending,Sheikh Zayed,BALL,,0,-2,
+15,M4,Jofra Archer,RR,RCB,RH,Defending,Sheikh Zayed,BALL,16,1,52,NO
+15,M4,Shreyas Gopal,RR,RCB,RH,Defending,Sheikh Zayed,BALL,,1,29,
+15,M4,Jaydev Unadkat,RR,RCB,LH,Defending,Sheikh Zayed,BALL,,0,0,
+15,M4,Mahipal Lomror,RR,RCB,LH,Defending,Sheikh Zayed,ALL,47,,58,CAUGHT
+16,M4,P.Shaw,DC,KKR,RH,Defending,Sharjah,BAT,66,,90,CAUGHT
+16,M4,Shikhar Dhawan,DC,KKR,LH,Defending,Sharjah,BAT,26,,44,CAUGHT
+16,M4,Hetmeyer,DC,KKR,LH,Defending,Sharjah,BAT,7,,21,NO
+16,M4,Shreyas Iyer,DC,KKR,RH,Defending,Sharjah,BAT,88,,119,NO
+16,M4,Rishabh Pant,DC,KKR,LH,Defending,Sharjah,WK,38,,57,CAUGHT
+16,M4,Marcus Stoinis,DC,KKR,RH,Defending,Sharjah,ALL,1,0,24,CAUGHT
+16,M4,Ashwin,DC,KKR,RH,Defending,Sharjah,BALL,,0,-2,
+16,M4,Amit Mishra,DC,KKR,RH,Defending,Sharjah,BALL,,1,29,
+16,M4,Rabada,DC,KKR,RH,Defending,Sharjah,BALL,,1,23,
+16,M4,Nortje,DC,KKR,RH,Defending,Sharjah,BALL,,3,87,
+16,M4,H Patel,DC,KKR,RH,Defending,Sharjah,BALL,,2,62,
+16,M4,Sunil Narine,KKR,DC,LH,Chasing,Sharjah,ALL,3,0,1,BOLD
+16,M4,Shubman Gill,KKR,DC,RH,Chasing,Sharjah,BAT,28,,44,CAUGHT
+16,M4,Nitish Rana,KKR,DC,LH,Chasing,Sharjah,ALL,58,,82,CAUGHT
+16,M4,Eoin Morgan,KKR,DC,LH,Chasing,Sharjah,BAT,44,,67,CAUGHT
+16,M4,Dinesh Karthik,KKR,DC,RH,Chasing,Sharjah,WK,6,,10,CAUGHT
+16,M4,Andre Russell,KKR,DC,RH,Chasing,Sharjah,ALL,13,2,70,CAUGHT
+16,M4,Kamlesh Nagarkoti,KKR,DC,RH,Chasing,Sharjah,BALL,3,1,26,NO
+16,M4,Pat Cummins,KKR,DC,RH,Chasing,Sharjah,BALL,5,0,4,CAUGHT
+16,M4,Rahul Tripathi,KKR,DC,RH,Chasing,Sharjah,BAT,36,,49,BOLD
+16,M4,Varun Chakravarthy,KKR,DC,RH,Chasing,Sharjah,BALL,,1,31,
+16,M4,Shivam Mavi,KKR,DC,RH,Chasing,Sharjah,BALL,1,0,7,NO
+17,M5,Rohit Sharma,MI,SRH,RH,Defending,Sharjah,BAT,6,,20,CAUGHT
+17,M5,De Kock,MI,SRH,LH,Defending,Sharjah,WK,67,,99,CAUGHT
+17,M5,S.Yadav,MI,SRH,RH,Defending,Sharjah,BAT,27,,37,CAUGHT
+17,M5,Ishan Kishan,MI,SRH,LH,Defending,Sharjah,WK,31,,48,CAUGHT
+17,M5,Hardik Pandya,MI,SRH,RH,Defending,Sharjah,ALL,28,,46,BOLD
+17,M5,Kieron Pollard,MI,SRH,RH,Defending,Sharjah,ALL,25,0,43,NO
+17,M5,Krunal Pandya,MI,SRH,LH,Defending,Sharjah,ALL,20,1,55,NO
+17,M5,Pattinson,MI,SRH,RH,Defending,Sharjah,BALL,,2,54,
+17,M5,Rahul Chahar,MI,SRH,RH,Defending,Sharjah,BALL,,0,12,
+17,M5,Boult,MI,SRH,LH,Defending,Sharjah,BALL,,2,54,
+17,M5,Bumrah,MI,SRH,RH,Defending,Sharjah,BALL,,2,50,
+17,M5,Warner,SRH,MI,LH,Chasing,Sharjah,BAT,60,,81,CAUGHT
+17,M5,Bairstow,SRH,MI,RH,Chasing,Sharjah,WK,25,,43,CAUGHT
+17,M5,Manish Pandey,SRH,MI,RH,Chasing,Sharjah,BAT,30,,48,CAUGHT
+17,M5,Kane Williamson,SRH,MI,RH,Chasing,Sharjah,BAT,3,0,1,CAUGHT
+17,M5,Abdul Samad,SRH,MI,RH,Chasing,Sharjah,ALL,20,0,23,CAUGHT
+17,M5,Abhishek Sharma,SRH,MI,LH,Chasing,Sharjah,ALL,10,,14,BOLD
+17,M5,Priyam Garg,SRH,MI,RH,Chasing,Sharjah,BAT,8,,12,CAUGHT
+17,M5,Rashid Khan,SRH,MI,RH,Chasing,Sharjah,BALL,3,1,42,NO
+17,M5,Siddarth Kaul,SRH,MI,RH,Chasing,Sharjah,BALL,,2,48,
+17,M5,Natarajan,SRH,MI,LH,Chasing,Sharjah,BALL,,0,12,
+17,M5,Sandeep Sharma,SRH,MI,LH,Chasing,Sharjah,BALL,0,2,50,NO
+18,M5,KL Rahul,KXIP,CSK,RH,Defending,Dubai,WK,63,,84,CAUGHT
+18,M5,Mayank Agarwal,KXIP,CSK,RH,Defending,Dubai,BAT,26,,33,CAUGHT
+18,M5,Nicolas Pooran,KXIP,CSK,LH,Defending,Dubai,WK,33,,44,CAUGHT
+18,M5,Glenn Maxwell,KXIP,CSK,RH,Defending,Dubai,ALL,11,,16,NO
+18,M5,Mandeep Singh,KXIP,CSK,RH,Defending,Dubai,BAT,27,,35,CAUGHT
+18,M5,Sarfaraz Khan,KXIP,CSK,RH,Defending,Dubai,BAT,14,,20,NO
+18,M5,Chris Jordan,KXIP,CSK,LH,Defending,Dubai,ALL,,0,-2,
+18,M5,H Brar,KXIP,CSK,RH,Defending,Dubai,BALL,,0,0,
+18,M5,Mohammed Shami,KXIP,CSK,RH,Defending,Dubai,BALL,,0,2,
+18,M5,Sheldon Cottrell,KXIP,CSK,LH,Defending,Dubai,BALL,,0,2,
+18,M5,Ravi Bishnoi,KXIP,CSK,RH,Defending,Dubai,BALL,,0,4,
+18,M5,Watson,CSK,KXIP,RH,Chasing,Dubai,BAT,83,,112,NO
+18,M5,Rayudu,CSK,KXIP,RH,Chasing,Dubai,BAT,87,,12,
+18,M5,Du Plesis,CSK,KXIP,RH,Chasing,Dubai,BAT,,,112,NO
+18,M5,MS Dhoni,CSK,KXIP,RH,Chasing,Dubai,WK,,,12,
+18,M5,Jadeja,CSK,KXIP,LH,Chasing,Dubai,ALL,,1,37,
+18,M5,Sam Curran,CSK,KXIP,LH,Chasing,Dubai,ALL,,0,8,
+18,M5,Piyush Chawla,CSK,KXIP,LH,Chasing,Dubai,BALL,,1,25,
+18,M5,Deepak Chahar,CSK,KXIP,RH,Chasing,Dubai,BALL,,0,6,
+18,M5,Jadhav,CSK,KXIP,RH,Chasing,Dubai,BAT,,,4,
+18,M5,D Bravo,CSK,KXIP,RH,Chasing,Dubai,ALL,,0,2,
+18,M5,S Thakur,CSK,KXIP,RH,Chasing,Dubai,BALL,,2,52,
+19,M5,P.Shaw,DC,RCB,RH,Defending,Dubai,BAT,42,,55,CAUGHT
+19,M5,Shikhar Dhawan,DC,RCB,LH,Defending,Dubai,BAT,32,,47,CAUGHT
+19,M5,Hetmeyer,DC,RCB,LH,Defending,Dubai,BAT,11,,25,NO
+19,M5,Shreyas Iyer,DC,RCB,RH,Defending,Dubai,BAT,11,,24,CAUGHT
+19,M5,Rishabh Pant,DC,RCB,LH,Defending,Dubai,WK,37,,64,BOLD
+19,M5,Marcus Stoinis,DC,RCB,RH,Defending,Dubai,ALL,53,,83,NO
+19,M5,Ashwin,DC,RCB,RH,Defending,Dubai,BALL,,1,37,
+19,M5,Axar Patel,DC,RCB,LH,Defending,Dubai,ALL,,2,58,
+19,M5,Rabada,DC,RCB,RH,Defending,Dubai,BALL,,4,114,
+19,M5,Nortje,DC,RCB,RH,Defending,Dubai,BALL,,2,56,
+19,M5,H Patel,DC,RCB,RH,Defending,Dubai,BALL,,0,0,
+19,M5,Devdutt Padikkal,RCB,DC,LH,Chasing,Dubai,BAT,4,,16,CAUGHT
+19,M5,Aaron Finch,RCB,DC,RH,Chasing,Dubai,BAT,13,,18,CAUGHT
+19,M5,Virat Kohli,RCB,DC,RH,Chasing,Dubai,BAT,43,,51,CAUGHT
+19,M5,AB de Villiers,RCB,DC,RH,Chasing,Dubai,WK,9,,23,CAUGHT
+19,M5,Shivam Dube,RCB,DC,LH,Chasing,Dubai,ALL,11,,17,BOLD
+19,M5,W Sundar,RCB,DC,LH,Chasing,Dubai,ALL,17,0,26,CAUGHT
+19,M5,Isuru Udana,RCB,DC,LH,Chasing,Dubai,BALL,1,1,28,CAUGHT
+19,M5,Moeen Ali,RCB,DC,LH,Chasing,Dubai,ALL,11,1,45,CAUGHT
+19,M5,Navdeep Saini,RCB,DC,RH,Chasing,Dubai,BALL,12,0,11,NO
+19,M5,Mohammed Siraj,RCB,DC,RH,Chasing,Dubai,BALL,5,2,60,BOLD
+19,M5,Y Chahal,RCB,DC,RH,Chasing,Dubai,BALL,,0,2,
+20,M6,Rohit Sharma,MI,RR,RH,Defending,Sheikh Zayed,BAT,35,,63,CAUGHT
+20,M6,De Kock,MI,RR,LH,Defending,Sheikh Zayed,WK,23,,56,CAUGHT
+20,M6,S.Yadav,MI,RR,RH,Defending,Sheikh Zayed,BAT,79,,106,NO
+20,M6,Ishan Kishan,MI,RR,LH,Defending,Sheikh Zayed,WK,0,,2,CAUGHT
+20,M6,Hardik Pandya,MI,RR,RH,Defending,Sheikh Zayed,ALL,30,,46,NO
+20,M6,Kieron Pollard,MI,RR,RH,Defending,Sheikh Zayed,ALL,,,39,
+20,M6,Krunal Pandya,MI,RR,LH,Defending,Sheikh Zayed,ALL,12,0,14,CAUGHT
+20,M6,Pattinson,MI,RR,RH,Defending,Sheikh Zayed,BALL,,2,56,
+20,M6,Rahul Chahar,MI,RR,RH,Defending,Sheikh Zayed,BALL,,1,29,
+20,M6,Boult,MI,RR,LH,Defending,Sheikh Zayed,BALL,,2,54,
+20,M6,Bumrah,MI,RR,RH,Defending,Sheikh Zayed,BALL,,4,114,
+20,M5,Jos Butler,RR,MI,RH,Chasing,Sheikh Zayed,WK,70,,104,CAUGHT
+20,M5,Steve Smith,RR,MI,RH,Chasing,Sheikh Zayed,BAT,6,,11,CAUGHT
+20,M5,Sanju Samson,RR,MI,RH,Chasing,Sheikh Zayed,WK,0,,10,CAUGHT
+20,M5,Yashasvi Jaiswal,RR,MI,LH,Chasing,Sheikh Zayed,BAT,0,,2,CAUGHT
+20,M5,Rahul Tewatia,RR,MI,LH,Chasing,Sheikh Zayed,ALL,5,0,18,BOLD
+20,M5,Mahipal Lomror,RR,MI,LH,Chasing,Sheikh Zayed,ALL,11,,16,CAUGHT
+20,M5,Tom Curran,RR,MI,RH,Chasing,Sheikh Zayed,BALL,15,0,16,CAUGHT
+20,M5,Jofra Archer,RR,MI,RH,Chasing,Sheikh Zayed,BALL,24,1,58,CAUGHT
+20,M5,Shreyas Gopal,RR,MI,RH,Chasing,Sheikh Zayed,BALL,1,2,63,CAUGHT
+20,M5,K Tyagi,RR,MI,RH,Chasing,Sheikh Zayed,BALL,,1,27,
+20,M5,Ankit Rajpoot,RR,MI,RH,Chasing,Sheikh Zayed,BALL,2,0,0,CAUGHT
+21,M5,Sunil Narine,KKR,CSK,LH,Defending,Sheikh Zayed,ALL,17,1,49,CAUGHT
+21,M5,Rahul Tripathi,KKR,CSK,RH,Defending,Sheikh Zayed,BAT,81,,107,CAUGHT
+21,M5,Shubman Gill,KKR,CSK,RH,Defending,Sheikh Zayed,BAT,11,,24,CAUGHT
+21,M5,Nitish Rana,KKR,CSK,LH,Defending,Sheikh Zayed,ALL,9,,14,CAUGHT
+21,M5,Eoin Morgan,KKR,CSK,LH,Defending,Sheikh Zayed,BAT,7,,18,CAUGHT
+21,M5,Dinesh Karthik,KKR,CSK,RH,Defending,Sheikh Zayed,WK,12,,25,CAUGHT
+21,M5,Andre Russell,KKR,CSK,RH,Defending,Sheikh Zayed,ALL,2,1,29,CAUGHT
+21,M5,Kamlesh Nagarkoti,KKR,CSK,RH,Defending,Sheikh Zayed,BALL,0,1,29,CAUGHT
+21,M5,Pat Cummins,KKR,CSK,RH,Defending,Sheikh Zayed,BALL,17,,24,NO
+21,M5,Varun Chakravarthy,KKR,CSK,RH,Defending,Sheikh Zayed,BALL,1,1,30,RUNOUT
+21,M5,Shivam Mavi,KKR,CSK,RH,Defending,Sheikh Zayed,BALL,0,1,25,CAUGHT
+21,M6,Watson,CSK,KKR,RH,Chasing,Sheikh Zayed,BAT,50,,78,LBW
+21,M6,Rayudu,CSK,KKR,RH,Chasing,Sheikh Zayed,BAT,30,,37,CAUGHT
+21,M6,Du Plesis,CSK,KKR,RH,Chasing,Sheikh Zayed,BAT,17,,40,CAUGHT
+21,M6,MS Dhoni,CSK,KKR,RH,Chasing,Sheikh Zayed,WK,11,,54,BOLD
+21,M6,Jadeja,CSK,KKR,LH,Chasing,Sheikh Zayed,ALL,21,,44,NO
+21,M6,Sam Curran,CSK,KKR,LH,Chasing,Sheikh Zayed,ALL,17,2,74,CAUGHT
+21,M6,Karn Sharma,CSK,KKR,LH,Chasing,Sheikh Zayed,BALL,,2,54,
+21,M6,Deepak Chahar,CSK,KKR,RH,Chasing,Sheikh Zayed,BALL,,0,-2,
+21,M6,Jadhav,CSK,KKR,RH,Chasing,Sheikh Zayed,BAT,7,,8,NO
+21,M6,D Bravo,CSK,KKR,RH,Chasing,Sheikh Zayed,ALL,,3,77,
+21,M6,S Thakur,CSK,KKR,RH,Chasing,Sheikh Zayed,BALL,,2,62,
+22,M6,Warner,SRH,KXIP,LH,Defending,Dubai,BAT,52,,85,CAUGHT
+22,M6,Bairstow,SRH,KXIP,RH,Defending,Dubai,WK,97,,136,LBW
+22,M6,Manish Pandey,SRH,KXIP,RH,Defending,Dubai,BAT,1,,5,CAUGHT
+22,M6,Kane Williamson,SRH,KXIP,RH,Defending,Dubai,BAT,20,,35,NO
+22,M6,Abdul Samad,SRH,KXIP,RH,Defending,Dubai,ALL,8,0,13,CAUGHT
+22,M6,Abhishek Sharma,SRH,KXIP,LH,Defending,Dubai,ALL,12,1,44,CAUGHT
+22,M6,Priyam Garg,SRH,KXIP,RH,Defending,Dubai,BAT,0,,22,CAUGHT
+22,M6,Rashid Khan,SRH,KXIP,RH,Defending,Dubai,BALL,,3,93,
+22,M6,Khaleel Ahmed,SRH,KXIP,LH,Defending,Dubai,BALL,,2,60,
+22,M6,Natarajan,SRH,KXIP,LH,Defending,Dubai,BALL,,2,62,
+22,M6,Sandeep Sharma,SRH,KXIP,LH,Defending,Dubai,BALL,,0,4,
+22,M6,KL Rahul,KXIP,SRH,RH,Chasing,Dubai,WK,11,,13,CAUGHT
+22,M6,Mayank Agarwal,KXIP,SRH,RH,Chasing,Dubai,BAT,9,,14,RUNOUT
+22,M6,Nicolas Pooran,KXIP,SRH,LH,Chasing,Dubai,WK,77,,116,CAUGHT
+22,M6,Glenn Maxwell,KXIP,SRH,RH,Chasing,Dubai,ALL,7,0,17,RUNOUT
+22,M6,Mandeep Singh,KXIP,SRH,RH,Chasing,Dubai,BAT,6,,10,BOLD
+22,M6,Prabhsimran Singh,KXIP,SRH,RH,Chasing,Dubai,WK,11,,17,CAUGHT
+22,M6,Mujeeb Rahman,KXIP,SRH,RH,Chasing,Dubai,BALL,1,0,3,CAUGHT
+22,M6,Arshdeep Singh,KXIP,SRH,LH,Chasing,Dubai,BALL,0,2,70,CAUGHT
+22,M6,Mohammed Shami,KXIP,SRH,RH,Chasing,Dubai,BALL,0,1,27,BOLD
+22,M6,Sheldon Cottrell,KXIP,SRH,LH,Chasing,Dubai,BALL,0,0,0,BOLD
+22,M6,Ravi Bishnoi,KXIP,SRH,RH,Chasing,Dubai,BALL,6,3,84,NO
+23,M6,P.Shaw,DC,RR,RH,Defending,Sharjah,BAT,19,,27,CAUGHT
+23,M6,Shikhar Dhawan,DC,RR,LH,Defending,Sharjah,BAT,5,,18,CAUGHT
+23,M6,Hetmeyer,DC,RR,LH,Defending,Sharjah,BAT,45,,84,CAUGHT
+23,M6,Shreyas Iyer,DC,RR,RH,Defending,Sharjah,BAT,22,,38,RUNOUT
+23,M6,Rishabh Pant,DC,RR,LH,Defending,Sharjah,WK,5,,17,RUNOUT
+23,M6,Marcus Stoinis,DC,RR,RH,Defending,Sharjah,ALL,39,,101,CAUGHT
+23,M6,Ashwin,DC,RR,RH,Defending,Sharjah,BALL,0,2,56,NO
+23,M6,Axar Patel,DC,RR,LH,Defending,Sharjah,ALL,17,1,62,CAUGHT
+23,M6,Rabada,DC,RR,RH,Defending,Sharjah,BALL,2,3,87,NO
+23,M6,Nortje,DC,RR,RH,Defending,Sharjah,BALL,,2,29,
+23,M6,H Patel,DC,RR,RH,Defending,Sharjah,BALL,16,1,46,CAUGHT
+23,M6,Jos Butler,RR,DC,RH,Chasing,Sharjah,WK,13,,27,CAUGHT
+23,M6,Steve Smith,RR,DC,RH,Chasing,Sharjah,BAT,24,,40,CAUGHT
+23,M6,Sanju Samson,RR,DC,RH,Chasing,Sharjah,WK,5,,9,CAUGHT
+23,M6,Yashasvi Jaiswal,RR,DC,LH,Chasing,Sharjah,BAT,34,,63,BOLD
+23,M6,Rahul Tewatia,RR,DC,LH,Chasing,Sharjah,ALL,38,1,98,BOLD
+23,M6,Mahipal Lomror,RR,DC,LH,Chasing,Sharjah,ALL,1,,5,CAUGHT
+23,M6,Andrew Tye,RR,DC,RH,Chasing,Sharjah,BALL,6,1,31,CAUGHT
+23,M6,Jofra Archer,RR,DC,RH,Chasing,Sharjah,BALL,2,3,91,CAUGHT
+23,M6,Shreyas Gopal,RR,DC,RH,Chasing,Sharjah,BALL,2,0,0,CAUGHT
+23,M6,K Tyagi,RR,DC,RH,Chasing,Sharjah,BALL,2,1,31,NO
+23,M6,Varun Aaron,RR,DC,RH,Chasing,Sharjah,BALL,1,0,-1,CAUGHT
+24,M6,Rahul Tripathi,KKR,KXIP,RH,Defending,Sheikh Zayed,BAT,4,,3,BOLD
+24,M6,Shubman Gill,KKR,KXIP,RH,Defending,Sheikh Zayed,BAT,57,0,82,RUNOUT
+24,M6,Nitish Rana,KKR,KXIP,LH,Defending,Sheikh Zayed,ALL,2,,14,RUNOUT
+24,M6,Eoin Morgan,KKR,KXIP,LH,Defending,Sheikh Zayed,BAT,24,,32,CAUGHT
+24,M6,Dinesh Karthik,KKR,KXIP,RH,Defending,Sheikh Zayed,WK,58,,82,RUNOUT
+24,M6,Andre Russell,KKR,KXIP,RH,Defending,Sheikh Zayed,ALL,5,,10,CAUGHT
+24,M6,Pat Cummins,KKR,KXIP,RH,Defending,Sheikh Zayed,BALL,5,0,9,NO
+24,M6,Sunil Narine,KKR,KXIP,LH,Defending,Sheikh Zayed,ALL,,2,54,
+24,M6,Kamlesh Nagarkoti,KKR,KXIP,RH,Defending,Sheikh Zayed,BALL,,0,-2,
+24,M6,Varun Chakravarthy,KKR,KXIP,RH,Defending,Sheikh Zayed,BALL,,0,4,
+24,M6,Prasidh Krishna,KKR,KXIP,RH,Defending,Sheikh Zayed,BALL,,3,79,
+24,M7,KL Rahul,KXIP,KKR,RH,Chasing,Sheikh Zayed,WK,74,,92,BOLD
+24,M7,Mayank Agarwal,KXIP,KKR,RH,Chasing,Sheikh Zayed,BAT,56,,76,CAUGHT
+24,M7,Nicolas Pooran,KXIP,KKR,LH,Chasing,Sheikh Zayed,WK,16,,36,BOLD
+24,M7,Prabhsimran Singh,KXIP,KKR,RH,Chasing,Sheikh Zayed,WK,4,,28,CAUGHT
+24,M7,Glenn Maxwell,KXIP,KKR,RH,Chasing,Sheikh Zayed,ALL,10,,24,NO
+24,M7,Mandeep Singh,KXIP,KKR,RH,Chasing,Sheikh Zayed,BAT,0,,8,CAUGHT
+24,M7,Chris Jordan,KXIP,KKR,RH,Chasing,Sheikh Zayed,BALL,0,0,2,NO
+24,M7,Mujeeb Rahman,KXIP,KKR,RH,Chasing,Sheikh Zayed,BALL,,0,0,
+24,M7,Ravi Bishnoi,KXIP,KKR,RH,Chasing,Sheikh Zayed,BALL,,1,29,
+24,M7,Mohammed Shami,KXIP,KKR,RH,Chasing,Sheikh Zayed,BALL,,1,35,
+24,M7,Arshdeep Singh,KXIP,KKR,LH,Chasing,Sheikh Zayed,BALL,,1,37,
+25,M6,Devdutt Padikkal,RCB,CSK,LH,Defending,Dubai,BAT,33,,49,CAUGHT
+25,M6,Aaron Finch,RCB,CSK,RH,Defending,Dubai,BAT,2,,6,BOLD
+25,M6,Virat Kohli,RCB,CSK,RH,Defending,Dubai,BAT,90,,114,NO
+25,M6,AB de Villiers,RCB,CSK,RH,Defending,Dubai,WK,0,,10,CAUGHT
+25,M6,Shivam Dube,RCB,CSK,LH,Defending,Dubai,ALL,22,0,30,NO
+25,M6,W Sundar,RCB,CSK,LH,Defending,Dubai,ALL,10,2,68,CAUGHT
+25,M6,Isuru Udana,RCB,CSK,LH,Defending,Dubai,BALL,,1,29,
+25,M6,Chris Morris,RCB,CSK,RH,Defending,Dubai,ALL,,3,103,
+25,M6,Navdeep Saini,RCB,CSK,RH,Defending,Dubai,BALL,,0,8,
+25,M6,Gurkeerat Singh,RCB,CSK,RH,Defending,Dubai,BALL,,,20,
+25,M6,Y Chahal,RCB,CSK,RH,Defending,Dubai,BALL,,1,29,
+25,M7,Watson,CSK,RCB,RH,Chasing,Dubai,BAT,14,,21,BOLD
+25,M7,Du Plesis,CSK,RCB,RH,Chasing,Dubai,BAT,8,,20,CAUGHT
+25,M7,Rayudu,CSK,RCB,RH,Chasing,Dubai,BAT,42,,50,BOLD
+25,M7,Jagadeesan,CSK,RCB,RH,Chasing,Dubai,WK,33,,41,RUNOUT
+25,M7,MS Dhoni,CSK,RCB,RH,Chasing,Dubai,WK,10,,32,CAUGHT
+25,M7,Sam Curran,CSK,RCB,LH,Chasing,Dubai,ALL,0,1,21,CAUGHT
+25,M7,Jadeja,CSK,RCB,LH,Chasing,Dubai,ALL,7,0,18,CAUGHT
+25,M7,D Bravo,CSK,RCB,RH,Chasing,Dubai,ALL,7,0,9,CAUGHT
+25,M7,Deepak Chahar,CSK,RCB,RH,Chasing,Dubai,BALL,5,1,40,NO
+25,M7,S Thakur,CSK,RCB,RH,Chasing,Dubai,BALL,1,2,53,NO
+25,M7,Karn Sharma,CSK,RCB,LH,Chasing,Dubai,BALL,,0,4,
+26,M7,Warner,SRH,RR,LH,Defending,Dubai,BAT,48,,59,BOLD
+26,M7,Bairstow,SRH,RR,RH,Defending,Dubai,WK,16,,38,CAUGHT
+26,M7,Manish Pandey,SRH,RR,RH,Defending,Dubai,BAT,54,,74,CAUGHT
+26,M7,Kane Williamson,SRH,RR,RH,Defending,Dubai,BAT,22,,30,NO
+26,M7,Vijay Shankar,SRH,RR,RH,Defending,Dubai,ALL,,0,10,
+26,M7,Abhishek Sharma,SRH,RR,LH,Defending,Dubai,ALL,,0,4,
+26,M7,Priyam Garg,SRH,RR,RH,Defending,Dubai,BAT,15,,22,RUNOUT
+26,M7,Rashid Khan,SRH,RR,RH,Defending,Dubai,BALL,,2,54,
+26,M7,Khaleel Ahmed,SRH,RR,LH,Defending,Dubai,BALL,,2,52,
+26,M7,Natarajan,SRH,RR,LH,Defending,Dubai,BALL,,0,18,
+26,M7,Sandeep Sharma,SRH,RR,LH,Defending,Dubai,BALL,,0,4,
+26,M7,Jos Butler,RR,SRH,RH,Chasing,Dubai,WK,16,,29,CAUGHT
+26,M7,Steve Smith,RR,SRH,RH,Chasing,Dubai,BAT,5,,9,RUNOUT
+26,M7,Sanju Samson,RR,SRH,RH,Chasing,Dubai,WK,26,,41,CAUGHT
+26,M7,Robin Uthappa,RR,SRH,RH,Chasing,Dubai,BAT,18,,25,LBW
+26,M7,Rahul Tewatia,RR,SRH,LH,Chasing,Dubai,ALL,45,0,65,NO
+26,M7,Riyag Parag,RR,SRH,RH,Chasing,Dubai,ALL,42,,52,NO
+26,M7,Ben Stokes,RR,SRH,LH,Chasing,Dubai,ALL,5,0,10,BOLD
+26,M7,Jofra Archer,RR,SRH,RH,Chasing,Dubai,BALL,,1,35,
+26,M7,Shreyas Gopal,RR,SRH,RH,Chasing,Dubai,BALL,,0,4,
+26,M7,K Tyagi,RR,SRH,RH,Chasing,Dubai,BALL,,1,27,
+26,M7,Jaydev Unadkat,RR,SRH,LH,Chasing,Dubai,BALL,,1,29,
+27,M7,Rohit Sharma,MI,DC,RH,Chasing,Sharjah,BAT,5,,3,CAUGHT
+27,M7,De Kock,MI,DC,LH,Chasing,Sharjah,WK,53,,75,CAUGHT
+27,M7,S.Yadav,MI,DC,RH,Chasing,Sharjah,BAT,53,,79,CAUGHT
+27,M7,Ishan Kishan,MI,DC,LH,Chasing,Sharjah,WK,28,,38,CAUGHT
+27,M7,Hardik Pandya,MI,DC,RH,Chasing,Sharjah,ALL,0,,2,CAUGHT
+27,M7,Kieron Pollard,MI,DC,RH,Chasing,Sharjah,ALL,11,0,16,NO
+27,M7,Krunal Pandya,MI,DC,LH,Chasing,Sharjah,ALL,12,2,76,NO
+27,M7,Pattinson,MI,DC,RH,Chasing,Sharjah,BALL,,0,-2,
+27,M7,Rahul Chahar,MI,DC,RH,Chasing,Sharjah,BALL,,0,10,
+27,M7,Boult,MI,DC,LH,Chasing,Sharjah,BALL,,1,35,
+27,M7,Bumrah,MI,DC,RH,Chasing,Sharjah,BALL,,0,4,
+27,M7,P.Shaw,DC,MI,RH,Defending,Sharjah,BAT,4,,17,CAUGHT
+27,M7,Shikhar Dhawan,DC,MI,LH,Defending,Sharjah,BAT,69,,89,NO
+27,M7,A Rahane,DC,MI,RH,Defending,Sharjah,BAT,15,,22,LBW
+27,M7,Shreyas Iyer,DC,MI,RH,Defending,Sharjah,BAT,42,,59,CAUGHT
+27,M7,Alex Carey,DC,MI,LH,Defending,Sharjah,WK,14,,26,NO
+27,M7,Marcus Stoinis,DC,MI,RH,Defending,Sharjah,ALL,13,1,38,RUNOUT
+27,M7,Ashwin,DC,MI,RH,Defending,Sharjah,BALL,,1,29,
+27,M7,Axar Patel,DC,MI,LH,Defending,Sharjah,ALL,,1,37,
+27,M7,Rabada,DC,MI,RH,Defending,Sharjah,BALL,,2,62,
+27,M7,Nortje,DC,MI,RH,Defending,Sharjah,BALL,,0,4,
+27,M7,H Patel,DC,MI,RH,Defending,Sharjah,BALL,,0,2,
+28,M7,Devdutt Padikkal,RCB,KKR,LH,Defending,Sharjah,BAT,32,,50,BOLD
+28,M7,Aaron Finch,RCB,KKR,RH,Defending,Sharjah,BAT,47,,57,BOLD
+28,M7,Virat Kohli,RCB,KKR,RH,Defending,Sharjah,BAT,33,,38,NO
+28,M7,AB de Villiers,RCB,KKR,RH,Defending,Sharjah,WK,73,,108,NO
+28,M7,Shivam Dube,RCB,KKR,LH,Defending,Sharjah,ALL,,,4,
+28,M7,W Sundar,RCB,KKR,LH,Defending,Sharjah,ALL,,2,56,
+28,M7,Chris Morris,RCB,KKR,RH,Defending,Sharjah,ALL,,2,66,
+28,M7,Mohammed Siraj,RCB,KKR,RH,Defending,Sharjah,BALL,,1,37,
+28,M7,Navdeep Saini,RCB,KKR,RH,Defending,Sharjah,BALL,,1,31,
+28,M7,Isuru Udana,RCB,KKR,LH,Defending,Sharjah,BALL,,1,41,
+28,M7,Y Chahal,RCB,KKR,RH,Defending,Sharjah,BALL,,1,35,
+28,M7,Shubman Gill,KKR,RCB,RH,Chasing,Sharjah,BAT,34,,43,RUNOUT
+28,M7,Tom Banton,KKR,RCB,RH,Chasing,Sharjah,BAT,8,,10,BOLD
+28,M7,Nitish Rana,KKR,RCB,LH,Chasing,Sharjah,ALL,9,,12,BOLD
+28,M7,Eoin Morgan,KKR,RCB,LH,Chasing,Sharjah,BAT,8,,11,CAUGHT
+28,M7,Dinesh Karthik,KKR,RCB,RH,Chasing,Sharjah,WK,1,,5,BOLD
+28,M7,Andre Russell,KKR,RCB,RH,Chasing,Sharjah,ALL,16,1,43,CAUGHT
+28,M7,Rahul Tripathi,KKR,RCB,RH,Chasing,Sharjah,BAT,16,,21,CAUGHT
+28,M7,Pat Cummins,KKR,RCB,RH,Chasing,Sharjah,BALL,1,0,3,CAUGHT
+28,M7,Kamlesh Nagarkoti,KKR,RCB,RH,Chasing,Sharjah,BALL,4,0,6,BOLD
+28,M7,Varun Chakravarthy,KKR,RCB,RH,Chasing,Sharjah,BALL,7,0,11,NO
+28,M7,Prasidh Krishna,KKR,RCB,RH,Chasing,Sharjah,BALL,2,1,27,NO
+29,M8,Watson,CSK,SRH,RH,Defending,Dubai,BAT,42,,53,CAUGHT
+29,M8,Du Plesis,CSK,SRH,RH,Defending,Dubai,BAT,0,,2,CAUGHT
+29,M8,Rayudu,CSK,SRH,RH,Defending,Dubai,BAT,41,,52,CAUGHT
+29,M8,MS Dhoni,CSK,SRH,RH,Defending,Dubai,WK,21,,29,CAUGHT
+29,M8,Sam Curran,CSK,SRH,LH,Defending,Dubai,ALL,31,1,77,BOLD
+29,M8,Jadeja,CSK,SRH,LH,Defending,Dubai,ALL,25,1,75,NO
+29,M8,D Bravo,CSK,SRH,RH,Defending,Dubai,ALL,0,2,72,BOLD
+29,M8,Deepak Chahar,CSK,SRH,RH,Defending,Dubai,BALL,2,0,6,NO
+29,M8,Piyush Chawla,CSK,SRH,RH,Defending,Dubai,BALL,,0,4,
+29,M8,S Thakur,CSK,SRH,RH,Defending,Dubai,BALL,,1,39,
+29,M8,Karn Sharma,CSK,SRH,LH,Defending,Dubai,BALL,,2,52,
+29,M8,Warner,SRH,CSK,LH,Chasing,Dubai,BAT,9,,19,CAUGHT
+29,M8,Bairstow,SRH,CSK,RH,Chasing,Dubai,WK,23,,37,BOLD
+29,M8,Manish Pandey,SRH,CSK,RH,Chasing,Dubai,BAT,4,,17,RUNOUT
+29,M8,Kane Williamson,SRH,CSK,RH,Chasing,Dubai,BAT,57,,84,CAUGHT
+29,M8,Vijay Shankar,SRH,CSK,RH,Chasing,Dubai,ALL,12,,18,CAUGHT
+29,M8,Shahbaz Nadeem,SRH,CSK,LH,Chasing,Dubai,BALL,5,0,10,CAUGHT
+29,M8,Priyam Garg,SRH,CSK,RH,Chasing,Dubai,BAT,16,,21,CAUGHT
+29,M8,Rashid Khan,SRH,CSK,RH,Chasing,Dubai,BALL,14,0,21,HITWICKET
+29,M8,Khaleel Ahmed,SRH,CSK,LH,Chasing,Dubai,BALL,,2,48,
+29,M8,Natarajan,SRH,CSK,LH,Chasing,Dubai,BALL,0,2,50,NO
+29,M8,Sandeep Sharma,SRH,CSK,LH,Chasing,Dubai,BALL,1,2,59,NO
+30,M8,P.Shaw,DC,RR,RH,Defending,Dubai,BAT,0,,2,BOLD
+30,M8,Shikhar Dhawan,DC,RR,LH,Defending,Dubai,BAT,57,,79,CAUGHT
+30,M8,A Rahane,DC,RR,RH,Defending,Dubai,BAT,2,,14,CAUGHT
+30,M8,Shreyas Iyer,DC,RR,RH,Defending,Dubai,BAT,53,,72,CAUGHT
+30,M8,Alex Carey,DC,RR,LH,Defending,Dubai,WK,14,,20,CAUGHT
+30,M8,Marcus Stoinis,DC,RR,RH,Defending,Dubai,ALL,18,,23,CAUGHT
+30,M8,Ashwin,DC,RR,RH,Defending,Dubai,BALL,,1,41,
+30,M8,Axar Patel,DC,RR,LH,Defending,Dubai,ALL,7,1,49,CAUGHT
+30,M8,Rabada,DC,RR,RH,Defending,Dubai,BALL,,1,29,
+30,M8,Nortje,DC,RR,RH,Defending,Dubai,BALL,,2,54,
+30,M8,T Deshpande,DC,RR,RH,Defending,Dubai,BALL,,2,52,
+30,M8,Jos Butler,RR,DC,RH,Chasing,Dubai,WK,22,,31,BOLD
+30,M8,Steve Smith,RR,DC,RH,Chasing,Dubai,BAT,1,,5,CAUGHT
+30,M8,Sanju Samson,RR,DC,RH,Chasing,Dubai,WK,25,,33,BOLD
+30,M8,Robin Uthappa,RR,DC,RH,Chasing,Dubai,BAT,32,,49,BOLD
+30,M8,Rahul Tewatia,RR,DC,LH,Chasing,Dubai,ALL,14,0,27,NO
+30,M8,Riyag Parag,RR,DC,RH,Chasing,Dubai,ALL,1,,5,RUNOUT
+30,M8,Ben Stokes,RR,DC,LH,Chasing,Dubai,ALL,41,0,45,CAUGHT
+30,M8,Jofra Archer,RR,DC,RH,Chasing,Dubai,BALL,1,3,100,CAUGHT
+30,M8,Shreyas Gopal,RR,DC,RH,Chasing,Dubai,BALL,6,1,36,CAUGHT
+30,M8,K Tyagi,RR,DC,RH,Chasing,Dubai,BALL,,1,45,
+30,M8,Jaydev Unadkat,RR,DC,LH,Chasing,Dubai,BALL,,2,50,
+31,M8,Devdutt Padikkal,RCB,KXIP,LH,Defending,Sharjah,BAT,18,,31,CAUGHT
+31,M8,Aaron Finch,RCB,KXIP,RH,Defending,Sharjah,BAT,20,,28,BOLD
+31,M8,Virat Kohli,RCB,KXIP,RH,Defending,Sharjah,BAT,48,,55,CAUGHT
+31,M8,AB de Villiers,RCB,KXIP,RH,Defending,Sharjah,WK,2,,12,CAUGHT
+31,M8,Shivam Dube,RCB,KXIP,LH,Defending,Sharjah,ALL,23,,31,CAUGHT
+31,M8,W Sundar,RCB,KXIP,LH,Defending,Sharjah,ALL,13,0,16,CAUGHT
+31,M8,Chris Morris,RCB,KXIP,RH,Defending,Sharjah,ALL,25,0,38,NO
+31,M8,Mohammed Siraj,RCB,KXIP,RH,Defending,Sharjah,BALL,,0,-2,
+31,M8,Navdeep Saini,RCB,KXIP,RH,Defending,Sharjah,BALL,,0,6,
+31,M8,Isuru Udana,RCB,KXIP,LH,Defending,Sharjah,BALL,10,0,16,NO
+31,M8,Y Chahal,RCB,KXIP,RH,Defending,Sharjah,BALL,,1,23,
+31,M8,KL Rahul,KXIP,RCB,RH,Chasing,Sharjah,WK,61,,100,NO
+31,M8,Mayank Agarwal,KXIP,RCB,RH,Chasing,Sharjah,BAT,45,,59,BOLD
+31,M8,Nicolas Pooran,KXIP,RCB,LH,Chasing,Sharjah,WK,6,,20,NO
+31,M8,Chris Gayle,KXIP,RCB,LH,Chasing,Sharjah,BAT,53,,76,RUNOUT
+31,M8,Glenn Maxwell,KXIP,RCB,RH,Chasing,Sharjah,ALL,,0,4,
+31,M8,Deepak Hooda,KXIP,RCB,RH,Chasing,Sharjah,BAT,,,12,
+31,M8,Chris Jordan,KXIP,RCB,RH,Chasing,Sharjah,BALL,,1,37,
+31,M8,Murugan Ashwin,KXIP,RCB,RH,Chasing,Sharjah,BALL,,2,56,
+31,M8,Ravi Bishnoi,KXIP,RCB,RH,Chasing,Sharjah,BALL,,0,2,
+31,M8,Mohammed Shami,KXIP,RCB,RH,Chasing,Sharjah,BALL,,2,48,
+31,M8,Arshdeep Singh,KXIP,RCB,LH,Chasing,Sharjah,BALL,,1,27,
+32,M8,Rahul Tripathi,KKR,MI,RH,Defending,Sheikh Zayed,BAT,7,,12,CAUGHT
+32,M8,Shubman Gill,KKR,MI,RH,Defending,Sheikh Zayed,BAT,21,,27,CAUGHT
+32,M8,Nitish Rana,KKR,MI,LH,Defending,Sheikh Zayed,BAT,5,,10,CAUGHT
+32,M8,Dinesh Karthik,KKR,MI,RH,Defending,Sheikh Zayed,WK,4,,17,BOLD
+32,M8,Eoin Morgan,KKR,MI,LH,Defending,Sheikh Zayed,BAT,39,,49,NO
+32,M8,Andre Russell,KKR,MI,RH,Defending,Sheikh Zayed,ALL,12,0,19,CAUGHT
+32,M8,Pat Cummins,KKR,MI,RH,Defending,Sheikh Zayed,BALL,53,0,72,NO
+32,M8,Varun Chakravarthy,KKR,MI,RH,Defending,Sheikh Zayed,BALL,,1,31,
+32,M8,Prasidh Krishna,KKR,MI,RH,Defending,Sheikh Zayed,BALL,,0,-2,
+32,M8,Shivam Mavi,KKR,MI,RH,Defending,Sheikh Zayed,BALL,,1,29,
+32,M8,Chris Green,KKR,MI,RH,Defending,Sheikh Zayed,BALL,,0,4,
+32,M8,Rohit Sharma,MI,KKR,RH,Chasing,Sheikh Zayed,BAT,35,,46,CAUGHT
+32,M8,De Kock,MI,KKR,LH,Chasing,Sheikh Zayed,WK,78,,121,NO
+32,M8,S.Yadav,MI,KKR,RH,Chasing,Sheikh Zayed,BAT,10,,23,BOLD
+32,M8,Ishan Kishan,MI,KKR,LH,Chasing,Sheikh Zayed,WK,,,4,
+32,M8,Hardik Pandya,MI,KKR,RH,Chasing,Sheikh Zayed,ALL,21,,30,NO
+32,M8,Kieron Pollard,MI,KKR,RH,Chasing,Sheikh Zayed,ALL,,,12,
+32,M8,Krunal Pandya,MI,KKR,LH,Chasing,Sheikh Zayed,ALL,,0,6,
+32,M8,Coulter Nile,MI,KKR,RH,Chasing,Sheikh Zayed,BALL,,1,23,
+32,M8,Rahul Chahar,MI,KKR,RH,Chasing,Sheikh Zayed,BALL,,2,58,
+32,M8,Boult,MI,KKR,LH,Chasing,Sheikh Zayed,BALL,,1,29,
+32,M8,Bumrah,MI,KKR,RH,Chasing,Sheikh Zayed,BALL,,1,31,
+33,M9,Jos Butler,RR,RCB,RH,Defending,Dubai,WK,24,,31,CAUGHT
+33,M9,Steve Smith,RR,RCB,RH,Defending,Dubai,BAT,57,,77,CAUGHT
+33,M9,Sanju Samson,RR,RCB,RH,Defending,Dubai,WK,9,,15,CAUGHT
+33,M9,Robin Uthappa,RR,RCB,RH,Defending,Dubai,BAT,41,,62,CAUGHT
+33,M9,Rahul Tewatia,RR,RCB,LH,Defending,Dubai,ALL,19,1,59,NO
+33,M9,Riyag Parag,RR,RCB,RH,Defending,Dubai,ALL,,,4,
+33,M9,Ben Stokes,RR,RCB,LH,Defending,Dubai,ALL,15,,29,CAUGHT
+33,M9,Jofra Archer,RR,RCB,RH,Defending,Dubai,BALL,2,0,2,LBW
+33,M9,Shreyas Gopal,RR,RCB,RH,Defending,Dubai,BALL,,1,29,
+33,M9,K Tyagi,RR,RCB,RH,Defending,Dubai,BALL,,1,29,
+33,M9,Jaydev Unadkat,RR,RCB,LH,Defending,Dubai,BALL,,0,-2,
+33,M9,Devdutt Padikkal,RCB,RR,LH,Chasing,Dubai,BAT,35,,41,CAUGHT
+33,M9,Aaron Finch,RCB,RR,RH,Chasing,Dubai,BAT,14,,30,CAUGHT
+33,M9,Virat Kohli,RCB,RR,RH,Chasing,Dubai,BAT,43,,52,CAUGHT
+33,M9,AB de Villiers,RCB,RR,RH,Chasing,Dubai,WK,55,,88,NO
+33,M9,Gurkeerat Singh,RCB,RR,LH,Chasing,Dubai,ALL,19,,24,NO
+33,M9,W Sundar,RCB,RR,LH,Chasing,Dubai,ALL,,0,4,
+33,M9,Chris Morris,RCB,RR,RH,Chasing,Dubai,ALL,,4,120,
+33,M9,Shahbaz Ahmed,RCB,RR,LH,Chasing,Dubai,BAT,,0,10,
+33,M9,Navdeep Saini,RCB,RR,RH,Chasing,Dubai,BALL,,0,12,
+33,M9,Isuru Udana,RCB,RR,LH,Chasing,Dubai,BALL,,0,-2,
+33,M9,Y Chahal,RCB,RR,RH,Chasing,Dubai,BALL,,2,54,
+34,M9,Watson,CSK,DC,RH,Defending,Dubai,BAT,36,,46,BOLD
+34,M9,Du Plesis,CSK,DC,RH,Defending,Dubai,BAT,58,,96,CAUGHT
+34,M9,Rayudu,CSK,DC,RH,Defending,Dubai,BAT,45,,66,NO
+34,M9,MS Dhoni,CSK,DC,RH,Defending,Dubai,WK,3,,7,CAUGHT
+34,M9,Sam Curran,CSK,DC,LH,Defending,Dubai,ALL,0,1,35,CAUGHT
+34,M9,Jadeja,CSK,DC,LH,Defending,Dubai,ALL,33,0,45,NO
+34,M9,D Bravo,CSK,DC,RH,Defending,Dubai,ALL,,1,29,
+34,M9,Deepak Chahar,CSK,DC,RH,Defending,Dubai,BALL,,2,74,
+34,M9,Jadhav,CSK,DC,RH,Defending,Dubai,BALL,,,4,
+34,M9,S Thakur,CSK,DC,RH,Defending,Dubai,BALL,,1,27,
+34,M9,Karn Sharma,CSK,DC,LH,Defending,Dubai,BALL,,0,-2,
+34,M9,P.Shaw,DC,CSK,RH,Defending,Dubai,BAT,0,,2,CAUGHT
+34,M9,Shikhar Dhawan,DC,CSK,LH,Defending,Dubai,BAT,101,,145,NO
+34,M9,A Rahane,DC,CSK,RH,Defending,Dubai,BAT,8,,13,CAUGHT
+34,M9,Shreyas Iyer,DC,CSK,RH,Defending,Dubai,BAT,23,,30,CAUGHT
+34,M9,Alex Carey,DC,CSK,LH,Defending,Dubai,WK,4,,16,CAUGHT
+34,M9,Marcus Stoinis,DC,CSK,RH,Defending,Dubai,ALL,24,0,33,CAUGHT
+34,M9,Ashwin,DC,CSK,RH,Defending,Dubai,BALL,,0,2,
+34,M9,Axar Patel,DC,CSK,LH,Defending,Dubai,ALL,21,0,33,NO
+34,M9,Rabada,DC,CSK,RH,Defending,Dubai,BALL,,1,37,
+34,M9,Nortje,DC,CSK,RH,Defending,Dubai,BALL,,1,58,
+34,M9,T Deshpande,DC,CSK,RH,Defending,Dubai,BALL,,1,27,
+35,M9,Rahul Tripathi,KKR,SRH,RH,Defending,Sheikh Zayed,BAT,23,,31,BOLD
+35,M9,Shubman Gill,KKR,SRH,RH,Defending,Sheikh Zayed,BAT,36,,61,CAUGHT
+35,M9,Nitish Rana,KKR,SRH,LH,Defending,Sheikh Zayed,BAT,29,,46,CAUGHT
+35,M9,Dinesh Karthik,KKR,SRH,RH,Defending,Sheikh Zayed,WK,29,,39,NO
+35,M9,Eoin Morgan,KKR,SRH,LH,Defending,Sheikh Zayed,BAT,34,,43,CAUGHT
+35,M9,Andre Russell,KKR,SRH,RH,Defending,Sheikh Zayed,ALL,9,0,16,CAUGHT
+35,M9,Pat Cummins,KKR,SRH,RH,Defending,Sheikh Zayed,BALL,,1,29,
+35,M9,Varun Chakravarthy,KKR,SRH,RH,Defending,Sheikh Zayed,BALL,,1,29,
+35,M9,Kuldeep Yadav,KKR,SRH,RH,Defending,Sheikh Zayed,BALL,,0,6,
+35,M9,Shivam Mavi,KKR,SRH,RH,Defending,Sheikh Zayed,BALL,,1,23,
+35,M9,Lockie Ferguson,KKR,SRH,RH,Defending,Sheikh Zayed,BALL,,3,85,
+35,M9,Warner,SRH,KKR,LH,Chasing,Sheikh Zayed,BAT,47,,56,NO
+35,M9,Bairstow,SRH,KKR,RH,Chasing,Sheikh Zayed,WK,36,,47,CAUGHT
+35,M9,Manish Pandey,SRH,KKR,RH,Chasing,Sheikh Zayed,BAT,6,,18,BOLD
+35,M9,Kane Williamson,SRH,KKR,RH,Chasing,Sheikh Zayed,BAT,29,,39,CAUGHT
+35,M9,Vijay Shankar,SRH,KKR,RH,Chasing,Sheikh Zayed,ALL,7,1,44,CAUGHT
+35,M9,Abdul Samad,SRH,KKR,LH,Chasing,Sheikh Zayed,ALL,23,,31,CAUGHT
+35,M9,Priyam Garg,SRH,KKR,RH,Chasing,Sheikh Zayed,BAT,4,,24,BOLD
+35,M9,Rashid Khan,SRH,KKR,RH,Chasing,Sheikh Zayed,BALL,1,1,30,NO
+35,M9,Basil Thampi,SRH,KKR,LH,Chasing,Sheikh Zayed,BALL,,1,23,
+35,M9,Natarajan,SRH,KKR,LH,Chasing,Sheikh Zayed,BALL,,2,52,
+35,M9,Sandeep Sharma,SRH,KKR,LH,Chasing,Sheikh Zayed,BALL,,0,4,
+36,M9,Rohit Sharma,MI,KXIP,RH,Defending,Dubai,BAT,9,,23,BOLD
+36,M9,De Kock,MI,KXIP,LH,Defending,Dubai,WK,53,,80,CAUGHT
+36,M9,S.Yadav,MI,KXIP,RH,Defending,Dubai,BAT,4,,2,CAUGHT
+36,M9,Ishan Kishan,MI,KXIP,LH,Defending,Dubai,WK,7,,12,CAUGHT
+36,M9,Krunal Pandya,MI,KXIP,LH,Defending,Dubai,ALL,34,0,46,CAUGHT
+36,M9,Hardik Pandya,MI,KXIP,RH,Defending,Dubai,ALL,8,,14,CAUGHT
+36,M9,Kieron Pollard,MI,KXIP,RH,Defending,Dubai,ALL,34,0,47,NO
+36,M9,Coulter Nile,MI,KXIP,RH,Defending,Dubai,BALL,24,0,40,NO
+36,M9,Rahul Chahar,MI,KXIP,RH,Defending,Dubai,BALL,,2,54,
+36,M9,Boult,MI,KXIP,LH,Defending,Dubai,BALL,,0,6,
+36,M9,Bumrah,MI,KXIP,RH,Defending,Dubai,BALL,,3,81,
+36,M9,KL Rahul,KXIP,MI,RH,Chasing,Dubai,WK,77,,102,BOLD
+36,M9,Mayank Agarwal,KXIP,MI,RH,Chasing,Dubai,BAT,11,,24,BOLD
+36,M9,Chris Gayle,KXIP,MI,LH,Chasing,Dubai,BAT,24,,33,CAUGHT
+36,M9,Nicolas Pooran,KXIP,MI,LH,Chasing,Dubai,WK,24,,42,CAUGHT
+36,M9,Glenn Maxwell,KXIP,MI,RH,Chasing,Dubai,ALL,0,0,4,CAUGHT
+36,M9,Deepak Hooda,KXIP,MI,RH,Chasing,Dubai,ALL,23,0,38,NO
+36,M9,Chris Jordan,KXIP,MI,RH,Chasing,Dubai,BALL,13,1,40,RUNOUT
+36,M9,Mohammed Shami,KXIP,MI,RH,Chasing,Dubai,BALL,,2,54,
+36,M9,Murugan Ashwin,KXIP,MI,RH,Chasing,Dubai,BALL,,0,18,
+36,M9,Ravi Bishnoi,KXIP,MI,RH,Chasing,Dubai,BALL,,1,31,
+36,M9,Arshdeep Singh,KXIP,MI,LH,Chasing,Dubai,BALL,,2,48,
+37,M10,Watson,CSK,RR,RH,Defending,Dubai,BAT,8,,14,CAUGHT
+37,M10,Du Plesis,CSK,RR,RH,Defending,Dubai,BAT,10,,15,CAUGHT
+37,M10,Rayudu,CSK,RR,RH,Defending,Dubai,BAT,13,,17,CAUGHT
+37,M10,MS Dhoni,CSK,RR,RH,Defending,Dubai,WK,28,,50,RUNOUT
+37,M10,Sam Curran,CSK,RR,LH,Defending,Dubai,ALL,22,0,29,CAUGHT
+37,M10,Jadeja,CSK,RR,LH,Defending,Dubai,ALL,35,0,43,NO
+37,M10,Josh Hazlewood,CSK,RR,RH,Defending,Dubai,BALL,,1,33,
+37,M10,Deepak Chahar,CSK,RR,RH,Defending,Dubai,BALL,,2,66,
+37,M10,Jadhav,CSK,RR,RH,Defending,Dubai,BALL,4,,8,NO
+37,M10,S Thakur,CSK,RR,RH,Defending,Dubai,BALL,,0,4,
+37,M10,Piyush Chawla,CSK,RR,LH,Defending,Dubai,BALL,,0,0,
+37,M10,Jos Butler,RR,CSK,RH,Defending,Dubai,WK,70,,109,NO
+37,M10,Steve Smith,RR,CSK,RH,Defending,Dubai,BAT,26,,32,NO
+37,M10,Sanju Samson,RR,CSK,RH,Defending,Dubai,WK,0,,16,CAUGHT
+37,M10,Robin Uthappa,RR,CSK,RH,Defending,Dubai,BAT,4,,8,CAUGHT
+37,M10,Rahul Tewatia,RR,CSK,LH,Defending,Dubai,ALL,,1,41,
+37,M10,Riyag Parag,RR,CSK,RH,Defending,Dubai,ALL,,,4,
+37,M10,Ben Stokes,RR,CSK,LH,Defending,Dubai,ALL,19,0,24,BOLD
+37,M10,Jofra Archer,RR,CSK,RH,Defending,Dubai,BALL,,1,37,
+37,M10,Shreyas Gopal,RR,CSK,RH,Defending,Dubai,BALL,,1,35,
+37,M10,K Tyagi,RR,CSK,RH,Defending,Dubai,BALL,,1,29,
+37,M10,Ankit Rajpoot,RR,CSK,LH,Defending,Dubai,BALL,,0,4,
+38,M10,P.Shaw,DC,KXIP,RH,Defending,Dubai,BAT,7,,10,CAUGHT
+38,M10,Shikhar Dhawan,DC,KXIP,LH,Defending,Dubai,BAT,106,,144,NO
+38,M10,Hetmeyer,DC,KXIP,RH,Defending,Dubai,BAT,10,,16,BOLD
+38,M10,Shreyas Iyer,DC,KXIP,RH,Defending,Dubai,BAT,14,,20,CAUGHT
+38,M10,Rishabh Pant,DC,KXIP,LH,Defending,Dubai,WK,14,,39,CAUGHT
+38,M10,Marcus Stoinis,DC,KXIP,RH,Defending,Dubai,ALL,9,0,13,CAUGHT
+38,M10,Ashwin,DC,KXIP,RH,Defending,Dubai,BALL,,1,35,
+38,M10,Axar Patel,DC,KXIP,LH,Defending,Dubai,ALL,,1,29,
+38,M10,Rabada,DC,KXIP,RH,Defending,Dubai,BALL,,2,54,
+38,M10,Daniel Sams,DC,KXIP,LH,Defending,Dubai,BALL,,0,12,
+38,M10,T Deshpande,DC,KXIP,RH,Defending,Dubai,BALL,,0,-2,
+38,M10,KL Rahul,KXIP,DC,RH,Chasing,Dubai,WK,15,,30,CAUGHT
+38,M10,Mayank Agarwal,KXIP,DC,RH,Chasing,Dubai,BAT,5,,25,RUNOUT
+38,M10,Chris Gayle,KXIP,DC,LH,Chasing,Dubai,BAT,29,,40,BOLD
+38,M10,Nicolas Pooran,KXIP,DC,LH,Chasing,Dubai,WK,53,,77,CAUGHT
+38,M10,Glenn Maxwell,KXIP,DC,RH,Chasing,Dubai,ALL,32,1,72,CAUGHT
+38,M10,Deepak Hooda,KXIP,DC,RH,Chasing,Dubai,BAT,15,,18,NO
+38,M10,James Neesham,KXIP,DC,LH,Chasing,Dubai,ALL,10,1,41,NO
+38,M10,Murugan Ashwin,KXIP,DC,RH,Chasing,Dubai,BALL,,1,29,
+38,M10,Ravi Bishnoi,KXIP,DC,RH,Chasing,Dubai,BALL,,0,4,
+38,M10,Mohammed Shami,KXIP,DC,RH,Chasing,Dubai,BALL,,2,54,
+38,M10,Arshdeep Singh,KXIP,DC,LH,Chasing,Dubai,BALL,,0,2,
+39,M10,Rahul Tripathi,KKR,RCB,RH,Defending,Sheikh Zayed,BAT,1,,5,CAUGHT
+39,M10,Shubman Gill,KKR,RCB,RH,Defending,Sheikh Zayed,BAT,1,,5,CAUGHT
+39,M10,Nitish Rana,KKR,RCB,LH,Defending,Sheikh Zayed,BAT,0,,2,BOLD
+39,M10,Dinesh Karthik,KKR,RCB,RH,Defending,Sheikh Zayed,WK,4,,10,LBW
+39,M10,Eoin Morgan,KKR,RCB,LH,Defending,Sheikh Zayed,BAT,30,,39,CAUGHT
+39,M10,Tom Banton,KKR,RCB,RH,Defending,Sheikh Zayed,ALL,10,,17,CAUGHT
+39,M10,Pat Cummins,KKR,RCB,RH,Defending,Sheikh Zayed,BALL,4,,22,CAUGHT
+39,M10,Varun Chakravarthy,KKR,RCB,RH,Defending,Sheikh Zayed,BALL,,,4,
+39,M10,Kuldeep Yadav,KKR,RCB,RH,Defending,Sheikh Zayed,BALL,12,,17,RUNOUT
+39,M10,Prasidh Krishna,KKR,RCB,RH,Defending,Sheikh Zayed,BALL,,,4,
+39,M10,Lockie Ferguson,KKR,RCB,RH,Defending,Sheikh Zayed,BALL,19,1,53,NO
+39,M10,Devdutt Padikkal,RCB,KKR,LH,Chasing,Sheikh Zayed,BAT,25,,40,RUNOUT
+39,M10,Aaron Finch,RCB,KKR,RH,Chasing,Sheikh Zayed,BAT,16,,22,CAUGHT
+39,M10,Virat Kohli,RCB,KKR,RH,Chasing,Sheikh Zayed,BAT,18,,24,NO
+39,M10,AB de Villiers,RCB,KKR,RH,Chasing,Sheikh Zayed,WK,,,20,
+39,M10,Gurkeerat Singh,RCB,KKR,LH,Chasing,Sheikh Zayed,ALL,26,,43,NO
+39,M10,W Sundar,RCB,KKR,LH,Chasing,Sheikh Zayed,ALL,,1,43,
+39,M10,Chris Morris,RCB,KKR,RH,Chasing,Sheikh Zayed,ALL,,0,30,
+39,M10,Mohammed Siraj,RCB,KKR,RH,Chasing,Sheikh Zayed,BAT,,3,101,
+39,M10,Navdeep Saini,RCB,KKR,RH,Chasing,Sheikh Zayed,BALL,,1,29,
+39,M10,Isuru Udana,RCB,KKR,LH,Chasing,Sheikh Zayed,BALL,,0,4,
+39,M10,Y Chahal,RCB,KKR,RH,Chasing,Sheikh Zayed,BALL,,2,60,
+40,M11,Robin Uthappa,RR,SRH,RH,Defending,Dubai,BAT,19,,27,RUNOUT
+40,M11,Ben Stokes,RR,SRH,LH,Defending,Dubai,ALL,30,0,38,BOLD
+40,M11,Sanju Samson,RR,SRH,RH,Defending,Dubai,WK,36,,45,BOLD
+40,M11,Jos Butler,RR,SRH,RH,Defending,Dubai,WK,9,,13,CAUGHT
+40,M11,Steve Smith,RR,SRH,RH,Defending,Dubai,BAT,19,,25,CAUGHT
+40,M11,Riyag Parag,RR,SRH,RH,Defending,Dubai,ALL,20,,28,CAUGHT
+40,M11,Rahul Tewatia,RR,SRH,LH,Defending,Dubai,ALL,2,0,6,NO
+40,M11,Jofra Archer,RR,SRH,RH,Defending,Dubai,BALL,16,2,75,NO
+40,M11,Shreyas Gopal,RR,SRH,RH,Defending,Dubai,BALL,,0,4,
+40,M11,Ankit Rajpoot,RR,SRH,RH,Defending,Dubai,BALL,,0,4,
+40,M11,K Tyagi,RR,SRH,RH,Defending,Dubai,BALL,,0,-2,
+40,M11,Warner,SRH,RR,LH,Chasing,Dubai,BAT,4,,17,CAUGHT
+40,M11,Bairstow,SRH,RR,RH,Chasing,Dubai,WK,10,,17,BOLD
+40,M11,Manish Pandey,SRH,RR,RH,Chasing,Dubai,BAT,83,,123,NO
+40,M11,Jason Holder,SRH,RR,RH,Chasing,Dubai,ALL,,3,91,
+40,M11,Vijay Shankar,SRH,RR,RH,Chasing,Dubai,ALL,52,1,97,NO
+40,M11,Abdul Samad,SRH,RR,LH,Chasing,Dubai,ALL,,,4,
+40,M11,Priyam Garg,SRH,RR,RH,Chasing,Dubai,BAT,,,4,
+40,M11,Rashid Khan,SRH,RR,RH,Chasing,Dubai,BALL,,1,31,
+40,M11,Shahbaz Nadeem,SRH,RR,LH,Chasing,Dubai,BALL,,0,12,
+40,M11,Natarajan,SRH,RR,LH,Chasing,Dubai,BALL,,0,-2,
+40,M11,Sandeep Sharma,SRH,RR,LH,Chasing,Dubai,BALL,,0,4,
+41,M11,Rituraj Gaikwad,CSK,MI,RH,Defending,Sharjah,BAT,0,,2,LBW
+41,M11,Du Plesis,CSK,MI,RH,Defending,Sharjah,BAT,1,,5,CAUGHT
+41,M11,Rayudu,CSK,MI,RH,Defending,Sharjah,BAT,2,,6,CAUGHT
+41,M11,MS Dhoni,CSK,MI,RH,Defending,Sharjah,WK,16,,24,CAUGHT
+41,M11,Sam Curran,CSK,MI,LH,Defending,Sharjah,ALL,52,0,72,BOLD
+41,M11,Jadeja,CSK,MI,LH,Defending,Sharjah,ALL,7,0,12,CAUGHT
+41,M11,Josh Hazlewood,CSK,MI,RH,Defending,Sharjah,BALL,,0,4,NO
+41,M11,Deepak Chahar,CSK,MI,RH,Defending,Sharjah,BALL,0,0,4,STUMPING
+41,M11,Imran Tahir,CSK,MI,RH,Defending,Sharjah,BALL,13,0,19,NO
+41,M11,S Thakur,CSK,MI,RH,Defending,Sharjah,BALL,11,0,9,CAUGHT
+41,M11,Jagadeesan,CSK,MI,LH,Defending,Sharjah,BAT,0,,2,CAUGHT
+41,M10,De Kock,MI,CSK,LH,Chasing,Sharjah,WK,46,,95,NO
+41,M10,S.Yadav,MI,CSK,RH,Chasing,Sharjah,BAT,,,20,
+41,M10,Ishan Kishan,MI,CSK,LH,Chasing,Sharjah,WK,68,,96,NO
+41,M10,Krunal Pandya,MI,CSK,LH,Chasing,Sharjah,ALL,,0,14,
+41,M10,Hardik Pandya,MI,CSK,RH,Chasing,Sharjah,ALL,,,4,
+41,M10,Kieron Pollard,MI,CSK,RH,Chasing,Sharjah,ALL,,0,4,
+41,M10,Coulter Nile,MI,CSK,RH,Chasing,Sharjah,BALL,,1,29,
+41,M10,Rahul Chahar,MI,CSK,RH,Chasing,Sharjah,BALL,,2,56,
+41,M10,Boult,MI,CSK,LH,Chasing,Sharjah,BALL,,4,124,
+41,M10,Bumrah,MI,CSK,RH,Chasing,Sharjah,BALL,,2,54,
+41,M10,Saurabh Tiwary,MI,CSK,LH,Chasing,Sharjah,BAT,,,4,
+42,M11,Rahul Tripathi,KKR,DC,RH,Defending,Sheikh Zayed,BAT,13,,42,BOLD
+42,M11,Shubman Gill,KKR,DC,RH,Defending,Sheikh Zayed,BAT,9,,23,CAUGHT
+42,M11,Nitish Rana,KKR,DC,LH,Defending,Sheikh Zayed,BAT,81,,108,CAUGHT
+42,M11,Dinesh Karthik,KKR,DC,RH,Defending,Sheikh Zayed,WK,3,,7,CAUGHT
+42,M11,Eoin Morgan,KKR,DC,LH,Defending,Sheikh Zayed,BAT,17,,33,CAUGHT
+42,M11,Sunil Narine,KKR,DC,RH,Defending,Sheikh Zayed,ALL,64,,88,CAUGHT
+42,M11,Pat Cummins,KKR,DC,RH,Defending,Sheikh Zayed,BALL,0,3,83,NO
+42,M11,Varun Chakravarthy,KKR,DC,RH,Defending,Sheikh Zayed,BALL,,5,147,
+42,M11,Kamlesh Nagarkoti,KKR,DC,RH,Defending,Sheikh Zayed,BALL,,0,14,
+42,M11,Prasidh Krishna,KKR,DC,RH,Defending,Sheikh Zayed,BALL,,0,2,
+42,M11,Lockie Ferguson,KKR,DC,RH,Defending,Sheikh Zayed,BALL,,1,29,
+42,M11,A Rahane,DC,KKR,RH,Defending,Dubai,BAT,0,,10,LBW
+42,M11,Shikhar Dhawan,DC,KKR,LH,Defending,Dubai,BAT,6,,11,BOLD
+42,M11,Hetmeyer,DC,KKR,RH,Defending,Dubai,BAT,10,,16,CAUGHT
+42,M11,Shreyas Iyer,DC,KKR,RH,Defending,Dubai,BAT,47,,56,CAUGHT
+42,M11,Rishabh Pant,DC,KKR,LH,Defending,Dubai,WK,27,,43,CAUGHT
+42,M11,Marcus Stoinis,DC,KKR,RH,Defending,Dubai,ALL,6,2,56,CAUGHT
+42,M11,Ashwin,DC,KKR,RH,Defending,Dubai,BALL,14,0,14,NO
+42,M11,Axar Patel,DC,KKR,LH,Defending,Dubai,ALL,9,0,23,BOLD
+42,M11,Rabada,DC,KKR,RH,Defending,Dubai,BALL,9,2,72,CAUGHT
+42,M11,Nortje,DC,KKR,LH,Defending,Dubai,BALL,0,2,54,NO
+42,M11,T Deshpande,DC,KKR,RH,Defending,Dubai,BALL,1,0,11,CAUGHT
+43,M11,KL Rahul,KXIP,SRH,RH,Chasing,Dubai,WK,27,,51,BOLD
+43,M11,Mandeep Singh,KXIP,SRH,RH,Chasing,Dubai,BAT,17,,30,CAUGHT
+43,M11,Chris Gayle,KXIP,SRH,LH,Chasing,Dubai,BAT,20,,28,CAUGHT
+43,M11,Nicolas Pooran,KXIP,SRH,LH,Chasing,Dubai,WK,32,,46,NO
+43,M11,Glenn Maxwell,KXIP,SRH,RH,Chasing,Dubai,ALL,12,,16,CAUGHT
+43,M11,Deepak Hooda,KXIP,SRH,RH,Chasing,Dubai,BAT,0,,2,STUMPING
+43,M11,Chris Jordan,KXIP,SRH,LH,Chasing,Dubai,ALL,7,3,106,CAUGHT
+43,M11,Murugan Ashwin,KXIP,SRH,RH,Chasing,Dubai,BALL,4,1,41,RUNOUT
+43,M11,Ravi Bishnoi,KXIP,SRH,RH,Chasing,Dubai,BALL,0,1,47,NO
+43,M11,Mohammed Shami,KXIP,SRH,RH,Chasing,Dubai,BALL,,1,29,
+43,M11,Arshdeep Singh,KXIP,SRH,LH,Chasing,Dubai,BALL,,3,81,
+43,M12,Warner,SRH,KXIP,LH,Chasing,Dubai,BAT,35,,62,CAUGHT
+43,M12,Bairstow,SRH,KXIP,RH,Chasing,Dubai,WK,19,,39,BOLD
+43,M12,Manish Pandey,SRH,KXIP,RH,Chasing,Dubai,BAT,15,,15,CAUGHT
+43,M12,Jason Holder,SRH,KXIP,RH,Chasing,Dubai,ALL,5,2,59,CAUGHT
+43,M12,Vijay Shankar,SRH,KXIP,RH,Chasing,Dubai,ALL,26,,46,CAUGHT
+43,M12,Abdul Samad,SRH,KXIP,LH,Chasing,Dubai,ALL,7,,12,CAUGHT
+43,M12,Priyam Garg,SRH,KXIP,RH,Chasing,Dubai,BAT,3,,7,CAUGHT
+43,M12,Rashid Khan,SRH,KXIP,RH,Chasing,Dubai,BALL,0,2,68,CAUGHT
+43,M12,Sandeep Sharma,SRH,KXIP,LH,Chasing,Dubai,BALL,0,2,54,CAUGHT
+43,M12,Natarajan,SRH,KXIP,LH,Chasing,Dubai,BALL,0,0,6,NO
+43,M12,Khaleel Ahmed,SRH,KXIP,LH,Chasing,Dubai,BALL,0,0,12,RUNOUT
+44,M11,Devdutt Padikkal,RCB,CSK,LH,Defending,Dubai,BAT,22,,30,CAUGHT
+44,M11,Aaron Finch,RCB,CSK,RH,Defending,Dubai,BAT,15,,22,CAUGHT
+44,M11,Virat Kohli,RCB,CSK,RH,Defending,Dubai,BAT,50,,65,CAUGHT
+44,M11,AB de Villiers,RCB,CSK,RH,Defending,Dubai,WK,39,,47,CAUGHT
+44,M11,Gurkeerat Singh,RCB,CSK,LH,Defending,Dubai,ALL,2,,6,NO
+44,M11,W Sundar,RCB,CSK,LH,Defending,Dubai,ALL,5,,10,NO
+44,M11,Chris Morris,RCB,CSK,RH,Defending,Dubai,ALL,2,1,29,BOLD
+44,M11,Mohammed Siraj,RCB,CSK,RH,Defending,Dubai,BAT,,0,6,
+44,M11,Navdeep Saini,RCB,CSK,RH,Defending,Dubai,BALL,,0,4,
+44,M11,Moeen Ali,RCB,CSK,LH,Defending,Dubai,BALL,1,0,5,CAUGHT
+44,M11,Y Chahal,RCB,CSK,RH,Defending,Dubai,BALL,,1,31,
+44,M12,Rituraj Gaikwad,CSK,RCB,RH,Chasing,Dubai,BAT,65,,103,NO
+44,M12,Du Plesis,CSK,RCB,RH,Chasing,Dubai,BAT,25,,51,CAUGHT
+44,M12,Rayudu,CSK,RCB,RH,Chasing,Dubai,BAT,39,,50,BOLD
+44,M12,MS Dhoni,CSK,RCB,RH,Chasing,Dubai,WK,19,,26,NO
+44,M12,Sam Curran,CSK,RCB,LH,Chasing,Dubai,ALL,,3,79,
+44,M12,Jadeja,CSK,RCB,LH,Chasing,Dubai,ALL,,0,4,
+44,M12,Mitchell Santner,CSK,RCB,RH,Chasing,Dubai,BALL,,1,39,
+44,M12,Deepak Chahar,CSK,RCB,RH,Chasing,Dubai,BALL,,2,54,
+44,M12,Imran Tahir,CSK,RCB,RH,Chasing,Dubai,BALL,,0,4,
+44,M12,Monu Kumar,CSK,RCB,RH,Chasing,Dubai,BALL,,0,2,
+44,M12,Jagadeesan,CSK,RCB,LH,Chasing,Dubai,BAT,,,4,
+45,M11,De Kock,MI,RR,LH,Defending,Sheikh Zayed,WK,6,,12,BOLD
+45,M11,S.Yadav,MI,RR,RH,Defending,Sheikh Zayed,BAT,40,,50,CAUGHT
+45,M11,Ishan Kishan,MI,RR,LH,Defending,Sheikh Zayed,WK,37,,47,CAUGHT
+45,M11,Krunal Pandya,MI,RR,LH,Defending,Sheikh Zayed,ALL,3,0,5,NO
+45,M11,Hardik Pandya,MI,RR,RH,Defending,Sheikh Zayed,ALL,60,,88,NO
+45,M11,Kieron Pollard,MI,RR,RH,Defending,Sheikh Zayed,ALL,6,0,18,BOLD
+45,M11,Pattinson,MI,RR,RH,Defending,Sheikh Zayed,BALL,,2,48,
+45,M11,Rahul Chahar,MI,RR,RH,Defending,Sheikh Zayed,BALL,,0,-2,
+45,M11,Boult,MI,RR,LH,Defending,Sheikh Zayed,BALL,,0,2,
+45,M11,Bumrah,MI,RR,RH,Defending,Sheikh Zayed,BALL,,0,2,
+45,M11,Saurabh Tiwary,MI,RR,LH,Defending,Sheikh Zayed,BAT,34,,44,CAUGHT
+45,M12,Ben Stokes,RR,MI,LH,Chasing,Sheikh Zayed,ALL,107,,163,NO
+45,M12,Robin Uthappa,RR,MI,RH,Chasing,Sheikh Zayed,BAT,13,,19,CAUGHT
+45,M12,Steve Smith,RR,MI,RH,Chasing,Sheikh Zayed,BAT,11,,18,BOLD
+45,M12,Sanju Samson,RR,MI,RH,Chasing,Sheikh Zayed,WK,54,,76,NO
+45,M12,Jos Butler,RR,MI,RH,Chasing,Sheikh Zayed,WK,,,4,
+45,M12,Riyag Parag,RR,MI,RH,Chasing,Sheikh Zayed,ALL,,,4,
+45,M12,Rahul Tewatia,RR,MI,LH,Chasing,Sheikh Zayed,ALL,,0,4,
+45,M12,Jofra Archer,RR,MI,RH,Chasing,Sheikh Zayed,BALL,,2,62,
+45,M12,Shreyas Gopal,RR,MI,RH,Chasing,Sheikh Zayed,BALL,,2,54,
+45,M12,Ankit Rajpoot,RR,MI,RH,Chasing,Sheikh Zayed,BALL,,0,-2,
+45,M12,K Tyagi,RR,MI,RH,Chasing,Sheikh Zayed,BALL,,1,23,
+46,M12,Rahul Tripathi,KKR,KXIP,RH,Defending,Sharjah,BAT,7,,13,CAUGHT
+46,M12,Shubman Gill,KKR,KXIP,RH,Defending,Sharjah,BAT,57,,80,CAUGHT
+46,M12,Nitish Rana,KKR,KXIP,LH,Defending,Sharjah,BAT,0,,2,CAUGHT
+46,M12,Dinesh Karthik,KKR,KXIP,RH,Defending,Sharjah,WK,0,,2,CAUGHT
+46,M12,Eoin Morgan,KKR,KXIP,LH,Defending,Sharjah,BAT,40,,53,CAUGHT
+46,M12,Sunil Narine,KKR,KXIP,RH,Defending,Sharjah,ALL,6,0,11,BOLD
+46,M12,Pat Cummins,KKR,KXIP,RH,Defending,Sharjah,BALL,1,0,5,LBW
+46,M12,Varun Chakravarthy,KKR,KXIP,RH,Defending,Sharjah,BALL,2,1,31,BOLD
+46,M12,Kamlesh Nagarkoti,KKR,KXIP,RH,Defending,Sharjah,BALL,6,0,10,BOLD
+46,M12,Prasidh Krishna,KKR,KXIP,RH,Defending,Sharjah,BALL,0,0,12,NO
+46,M12,Lockie Ferguson,KKR,KXIP,RH,Defending,Sharjah,BALL,24,1,58,NO
+46,M12,KL Rahul,KXIP,KKR,RH,Chasing,Sharjah,WK,28,,52,LBW
+46,M12,Mandeep Singh,KXIP,KKR,RH,Chasing,Sharjah,BAT,66,,90,NO
+46,M12,Chris Gayle,KXIP,KKR,LH,Chasing,Sharjah,BAT,51,,83,CAUGHT
+46,M12,Nicolas Pooran,KXIP,KKR,LH,Chasing,Sharjah,WK,2,,14,NO
+46,M12,Glenn Maxwell,KXIP,KKR,RH,Chasing,Sharjah,ALL,,1,25,
+46,M12,Deepak Hooda,KXIP,KKR,RH,Chasing,Sharjah,BAT,,,4,
+46,M12,Chris Jordan,KXIP,KKR,LH,Chasing,Sharjah,ALL,,2,54,
+46,M12,Murugan Ashwin,KXIP,KKR,RH,Chasing,Sharjah,BALL,,1,37,
+46,M12,Ravi Bishnoi,KXIP,KKR,RH,Chasing,Sharjah,BALL,,2,64,
+46,M12,Mohammed Shami,KXIP,KKR,RH,Chasing,Sharjah,BALL,,3,79,
+46,M12,Arshdeep Singh,KXIP,KKR,LH,Chasing,Sharjah,BALL,,0,2,
+47,M12,Warner,SRH,DC,LH,Defending,Dubai,BAT,66,0,106,CAUGHT
+47,M12,W Saha,SRH,DC,RH,Defending,Dubai,WK,87,,115,CAUGHT
+47,M12,Manish Pandey,SRH,DC,RH,Defending,Dubai,BAT,44,,54,NO
+47,M12,Kane Williamson,SRH,DC,RH,Defending,Dubai,BAT,11,,24,NO
+47,M12,Jason Holder,SRH,DC,RH,Defending,Dubai,ALL,,1,23,
+47,M12,Vijay Shankar,SRH,DC,RH,Defending,Dubai,ALL,,1,29,
+47,M12,Abdul Samad,SRH,DC,LH,Defending,Dubai,ALL,,,12,
+47,M12,Shahbaz Nadeem,SRH,DC,RH,Defending,Dubai,BAT,,1,29,
+47,M12,Rashid Khan,SRH,DC,RH,Defending,Dubai,BALL,,3,85,
+47,M12,Sandeep Sharma,SRH,DC,LH,Defending,Dubai,BALL,,2,54,
+47,M12,Natarajan,SRH,DC,LH,Defending,Dubai,BALL,,2,54,
+47,M12,A Rahane,DC,KKR,RH,Defending,Dubai,BAT,26,,35,LBW
+47,M12,Shikhar Dhawan,DC,KKR,LH,Defending,Dubai,BAT,0,,2,CAUGHT
+47,M12,Hetmeyer,DC,KKR,LH,Defending,Dubai,BAT,16,,23,BOLD
+47,M12,Shreyas Iyer,DC,KKR,RH,Defending,Dubai,BAT,7,,15,CAUGHT
+47,M12,Rishabh Pant,DC,KKR,LH,Defending,Dubai,WK,36,,45,CAUGHT
+47,M12,Marcus Stoinis,DC,KKR,RH,Defending,Dubai,ALL,5,0,10,CAUGHT
+47,M12,Ashwin,DC,KKR,RH,Defending,Dubai,BALL,7,1,31,CAUGHT
+47,M12,Axar Patel,DC,KKR,LH,Defending,Dubai,ALL,1,0,11,CAUGHT
+47,M12,Rabada,DC,KKR,RH,Defending,Dubai,BALL,3,0,1,BOLD
+47,M12,Nortje,DC,KKR,LH,Defending,Dubai,BALL,1,1,28,CAUGHT
+47,M12,T Deshpande,DC,KKR,RH,Defending,Dubai,BALL,20,0,22,NO
+48,M12,Devdutt Padikkal,RCB,MI,LH,Defending,Sheikh Zayed,BAT,74,,108,CAUGHT
+48,M12,Josh Phillipe,RCB,MI,RH,Defending,Sheikh Zayed,WK,33,,43,STUMPING
+48,M12,Virat Kohli,RCB,MI,RH,Defending,Sheikh Zayed,BAT,9,,11,CAUGHT
+48,M12,AB de Villiers,RCB,MI,RH,Defending,Sheikh Zayed,WK,15,,22,CAUGHT
+48,M12,Gurkeerat Singh,RCB,MI,LH,Defending,Sheikh Zayed,ALL,14,,28,NO
+48,M12,W Sundar,RCB,MI,LH,Defending,Sheikh Zayed,ALL,10,,17,NO
+48,M12,Chris Morris,RCB,MI,RH,Defending,Sheikh Zayed,ALL,4,1,48,CAUGHT
+48,M12,Mohammed Siraj,RCB,MI,RH,Defending,Sheikh Zayed,BAT,,2,62,
+48,M12,Shivam Dube,RCB,MI,RH,Defending,Sheikh Zayed,BALL,2,0,6,CAUGHT
+48,M12,Dale Steyn,RCB,MI,LH,Defending,Sheikh Zayed,BALL,,0,0,
+48,M12,Y Chahal,RCB,MI,RH,Defending,Sheikh Zayed,BALL,,2,52,
+48,M12,De Kock,MI,RCB,LH,Defending,Sheikh Zayed,WK,18,,36,CAUGHT
+48,M12,S.Yadav,MI,RCB,RH,Defending,Sheikh Zayed,BAT,79,,115,NO
+48,M12,Ishan Kishan,MI,RCB,LH,Defending,Sheikh Zayed,WK,25,,34,CAUGHT
+48,M12,Krunal Pandya,MI,RCB,LH,Defending,Sheikh Zayed,ALL,10,0,15,CAUGHT
+48,M12,Hardik Pandya,MI,RCB,RH,Defending,Sheikh Zayed,ALL,17,,25,CAUGHT
+48,M12,Kieron Pollard,MI,RCB,RH,Defending,Sheikh Zayed,ALL,4,1,34,NO
+48,M12,Pattinson,MI,RCB,RH,Defending,Sheikh Zayed,BALL,,0,6,
+48,M12,Rahul Chahar,MI,RCB,RH,Defending,Sheikh Zayed,BALL,,1,33,
+48,M12,Boult,MI,RCB,LH,Defending,Sheikh Zayed,BALL,,1,35,
+48,M12,Bumrah,MI,RCB,RH,Defending,Sheikh Zayed,BALL,,3,93,
+48,M12,Saurabh Tiwary,MI,RCB,LH,Defending,Sheikh Zayed,BAT,5,,17,CAUGHT
+49,M13,Rahul Tripathi,KKR,CSK,RH,Defending,Dubai,BAT,3,,7,NO
+49,M13,Shubman Gill,KKR,CSK,RH,Defending,Dubai,BAT,26,,34,BOLD
+49,M13,Nitish Rana,KKR,CSK,LH,Defending,Dubai,BAT,87,0,117,CAUGHT
+49,M13,Dinesh Karthik,KKR,CSK,RH,Defending,Dubai,WK,21,,28,NO
+49,M13,Eoin Morgan,KKR,CSK,LH,Defending,Dubai,BAT,15,,21,CAUGHT
+49,M13,Sunil Narine,KKR,CSK,RH,Defending,Dubai,ALL,7,0,23,CAUGHT
+49,M13,Pat Cummins,KKR,CSK,RH,Defending,Dubai,BALL,,2,54,
+49,M13,Varun Chakravarthy,KKR,CSK,RH,Defending,Dubai,BALL,,2,56,
+49,M13,Kamlesh Nagarkoti,KKR,CSK,RH,Defending,Dubai,BALL,,0,-2,
+49,M13,Rinku Singh,KKR,CSK,RH,Defending,Dubai,BAT,11,,24,CAUGHT
+49,M13,Lockie Ferguson,KKR,CSK,RH,Defending,Dubai,BALL,,0,-2,
+49,M13,Rituraj Gaikwad,CSK,KKR,RH,Chasing,Dubai,BAT,72,,102,BOLD
+49,M13,Watson,CSK,KKR,RH,Chasing,Dubai,BAT,14,,21,CAUGHT
+49,M13,Rayudu,CSK,KKR,RH,Chasing,Dubai,BAT,38,,57,CAUGHT
+49,M13,MS Dhoni,CSK,KKR,RH,Chasing,Dubai,WK,1,,5,BOLD
+49,M13,Sam Curran,CSK,KKR,LH,Chasing,Dubai,ALL,14,0,26,NO
+49,M13,Jadeja,CSK,KKR,LH,Chasing,Dubai,ALL,31,1,76,NO
+49,M13,Mitchell Santner,CSK,KKR,RH,Chasing,Dubai,BALL,,1,27,
+49,M13,Deepak Chahar,CSK,KKR,RH,Chasing,Dubai,BALL,,0,0,
+49,M13,Karn Sharma,CSK,KKR,RH,Chasing,Dubai,BALL,,1,29,
+49,M13,Ngidi,CSK,KKR,RH,Chasing,Dubai,BALL,,2,54,
+49,M13,Jagadeesan,CSK,KKR,LH,Chasing,Dubai,BAT,,,4,
+50,M13,KL Rahul,KXIP,RR,RH,Defending,Sheikh Zayed,WK,46,,57,CAUGHT
+50,M13,Mandeep Singh,KXIP,RR,RH,Defending,Sheikh Zayed,BAT,0,,2,CAUGHT
+50,M13,Chris Gayle,KXIP,RR,LH,Defending,Sheikh Zayed,BAT,99,,133,BOLD
+50,M13,Nicolas Pooran,KXIP,RR,LH,Defending,Sheikh Zayed,WK,22,,40,CAUGHT
+50,M13,Glenn Maxwell,KXIP,RR,RH,Defending,Sheikh Zayed,ALL,6,,11,NO
+50,M13,Deepak Hooda,KXIP,RR,RH,Defending,Sheikh Zayed,BAT,1,,13,NO
+50,M13,Chris Jordan,KXIP,RR,LH,Defending,Sheikh Zayed,ALL,,1,23,
+50,M13,Murugan Ashwin,KXIP,RR,RH,Defending,Sheikh Zayed,BALL,,1,25,
+50,M13,Ravi Bishnoi,KXIP,RR,RH,Defending,Sheikh Zayed,BALL,,0,4,
+50,M13,Mohammed Shami,KXIP,RR,RH,Defending,Sheikh Zayed,BALL,,0,-2,
+50,M13,Arshdeep Singh,KXIP,RR,LH,Defending,Sheikh Zayed,BALL,,0,-2,
+50,M13,Ben Stokes,RR,KXIP,LH,Chasing,Sheikh Zayed,ALL,50,2,132,CAUGHT
+50,M13,Robin Uthappa,RR,KXIP,RH,Chasing,Sheikh Zayed,BAT,30,,39,CAUGHT
+50,M13,Steve Smith,RR,KXIP,RH,Chasing,Sheikh Zayed,BAT,31,,40,NO
+50,M13,Sanju Samson,RR,KXIP,RH,Chasing,Sheikh Zayed,WK,48,,62,RUNOUT
+50,M13,Jos Butler,RR,KXIP,RH,Chasing,Sheikh Zayed,WK,22,,31,NO
+50,M13,Riyag Parag,RR,KXIP,RH,Chasing,Sheikh Zayed,ALL,,,4,
+50,M13,Rahul Tewatia,RR,KXIP,LH,Chasing,Sheikh Zayed,ALL,,0,20,
+50,M13,Jofra Archer,RR,KXIP,RH,Chasing,Sheikh Zayed,BALL,,2,54,
+50,M13,Shreyas Gopal,RR,KXIP,RH,Chasing,Sheikh Zayed,BALL,,0,4,
+50,M13,Varun Aaron,RR,KXIP,RH,Chasing,Sheikh Zayed,BALL,,0,-2,
+50,M13,K Tyagi,RR,KXIP,RH,Chasing,Sheikh Zayed,BALL,,0,-2,
+51,M13,P.Shaw,DC,MI,RH,Defending,Dubai,BAT,10,,16,CAUGHT
+51,M13,Shikhar Dhawan,DC,MI,LH,Defending,Dubai,BAT,0,,2,CAUGHT
+51,M13,Hetmeyer,DC,MI,LH,Defending,Dubai,BAT,11,,16,CAUGHT
+51,M13,Shreyas Iyer,DC,MI,RH,Defending,Dubai,BAT,25,,32,STUMPING
+51,M13,Rishabh Pant,DC,MI,LH,Defending,Dubai,WK,21,,27,LBW
+51,M13,Marcus Stoinis,DC,MI,RH,Defending,Dubai,ALL,2,0,6,CAUGHT
+51,M13,Ashwin,DC,MI,RH,Defending,Dubai,BALL,12,0,22,CAUGHT
+51,M13,H Patel,DC,MI,RH,Defending,Dubai,BALL,5,0,10,LBW
+51,M13,Rabada,DC,MI,RH,Defending,Dubai,BALL,12,0,16,RUNOUT
+51,M13,Nortje,DC,MI,LH,Defending,Dubai,BALL,,1,25,
+51,M13,Praveen Dubey,DC,MI,RH,Defending,Dubai,BALL,7,0,9,
+51,M13,De Kock,MI,DC,LH,Defending,Dubai,WK,26,,60,BOLD
+51,M13,S.Yadav,MI,DC,RH,Defending,Dubai,BAT,12,,25,NO
+51,M13,Ishan Kishan,MI,DC,LH,Defending,Dubai,WK,72,,98,NO
+51,M13,Krunal Pandya,MI,DC,LH,Defending,Dubai,ALL,,0,24,
+51,M13,J Yadav,MI,DC,RH,Defending,Dubai,BALL,,0,6,
+51,M13,Kieron Pollard,MI,DC,RH,Defending,Dubai,ALL,,,4,
+51,M13,Coulter Nile,MI,DC,RH,Defending,Dubai,BALL,,1,29,
+51,M13,Rahul Chahar,MI,DC,RH,Defending,Dubai,BALL,,1,31,
+51,M13,Boult,MI,DC,LH,Defending,Dubai,BALL,,3,81,
+51,M13,Bumrah,MI,DC,RH,Defending,Dubai,BALL,,3,95,
+51,M13,Saurabh Tiwary,MI,DC,LH,Defending,Dubai,BAT,,,4,
+52,M13,Devdutt Padikkal,RCB,SRH,LH,Defending,Sheikh Zayed,BAT,5,,10,BOLD
+52,M13,Josh Phillipe,RCB,SRH,RH,Defending,Sheikh Zayed,WK,32,,40,CAUGHT
+52,M13,Virat Kohli,RCB,SRH,RH,Defending,Sheikh Zayed,BAT,7,,19,CAUGHT
+52,M13,AB de Villiers,RCB,SRH,RH,Defending,Sheikh Zayed,WK,24,,43,CAUGHT
+52,M13,Gurkeerat Singh,RCB,SRH,LH,Defending,Sheikh Zayed,ALL,15,,26,NO
+52,M13,W Sundar,RCB,SRH,LH,Defending,Sheikh Zayed,ALL,21,1,52,CAUGHT
+52,M13,Chris Morris,RCB,SRH,RH,Defending,Sheikh Zayed,ALL,3,0,13,CAUGHT
+52,M13,Mohammed Siraj,RCB,SRH,RH,Defending,Sheikh Zayed,BAT,2,0,6,NO
+52,M13,Navdeep Saini,RCB,SRH,RH,Defending,Sheikh Zayed,BALL,,1,23,
+52,M13,Isuru Udana,RCB,SRH,LH,Defending,Sheikh Zayed,BALL,0,1,37,CAUGHT
+52,M13,Y Chahal,RCB,SRH,RH,Defending,Sheikh Zayed,BALL,,2,56,
+52,M13,Warner,SRH,RCB,LH,Chasing,Sheikh Zayed,BAT,8,,22,CAUGHT
+52,M13,W Saha,SRH,RCB,RH,Chasing,Sheikh Zayed,WK,39,,49,STUMPING
+52,M13,Manish Pandey,SRH,RCB,RH,Chasing,Sheikh Zayed,BAT,26,,43,CAUGHT
+52,M13,Kane Williamson,SRH,RCB,RH,Chasing,Sheikh Zayed,BAT,8,,24,CAUGHT
+52,M13,Jason Holder,SRH,RCB,RH,Chasing,Sheikh Zayed,ALL,26,2,87,NO
+52,M13,Abhishek Sharma,SRH,RCB,RH,Chasing,Sheikh Zayed,ALL,,,22,CAUGHT
+52,M13,Abdul Samad,SRH,RCB,LH,Chasing,Sheikh Zayed,ALL,,,4,
+52,M13,Shahbaz Nadeem,SRH,RCB,RH,Chasing,Sheikh Zayed,BAT,,1,29,
+52,M13,Rashid Khan,SRH,RCB,RH,Chasing,Sheikh Zayed,BALL,,1,31,
+52,M13,Sandeep Sharma,SRH,RCB,LH,Chasing,Sheikh Zayed,BALL,,2,56,
+52,M13,Natarajan,SRH,RCB,LH,Chasing,Sheikh Zayed,BALL,,1,43,
+53,M14,KL Rahul,KXIP,CSK,RH,Defending,Sheikh Zayed,WK,29,,46,BOLD
+53,M14,Mandeep Singh,KXIP,CSK,RH,Defending,Sheikh Zayed,BAT,14,,19,BOLD
+53,M14,Chris Gayle,KXIP,CSK,LH,Defending,Sheikh Zayed,BAT,12,0,14,LBW
+53,M14,Nicolas Pooran,KXIP,CSK,LH,Defending,Sheikh Zayed,WK,2,,6,CAUGHT
+53,M14,James Neesham,KXIP,CSK,LH,Defending,Sheikh Zayed,ALL,2,0,6,CAUGHT
+53,M14,Deepak Hooda,KXIP,CSK,RH,Defending,Sheikh Zayed,BAT,62,,85,NO
+53,M14,Chris Jordan,KXIP,CSK,LH,Defending,Sheikh Zayed,ALL,4,1,29,NO
+53,M14,Murugan Ashwin,KXIP,CSK,RH,Defending,Sheikh Zayed,BALL,,0,8,
+53,M14,Ravi Bishnoi,KXIP,CSK,RH,Defending,Sheikh Zayed,BALL,,0,2,
+53,M14,Mohammed Shami,KXIP,CSK,RH,Defending,Sheikh Zayed,BALL,,0,4,
+53,M14,Mayank Agarwal,KXIP,CSK,RH,Defending,Sheikh Zayed,BAT,26,,35,
+53,M14,Rituraj Gaikwad,CSK,KXIP,RH,Chasing,Sheikh Zayed,BAT,62,,90,NO
+53,M14,Du Plesis,CSK,KXIP,RH,Chasing,Sheikh Zayed,BAT,48,,60,CAUGHT
+53,M14,Rayudu,CSK,KXIP,RH,Chasing,Sheikh Zayed,BAT,30,,36,NO
+53,M14,MS Dhoni,CSK,KXIP,RH,Chasing,Sheikh Zayed,WK,,,12,
+53,M14,Sam Curran,CSK,KXIP,LH,Chasing,Sheikh Zayed,ALL,,0,4,
+53,M14,Jadeja,CSK,KXIP,LH,Chasing,Sheikh Zayed,ALL,,1,31,
+53,M14,Imran Tahir,CSK,KXIP,RH,Chasing,Sheikh Zayed,BALL,,1,31,
+53,M14,Deepak Chahar,CSK,KXIP,RH,Chasing,Sheikh Zayed,BALL,,0,2,
+53,M14,S Thakur,CSK,KXIP,RH,Chasing,Sheikh Zayed,BALL,,1,29,
+53,M14,Ngidi,CSK,KXIP,RH,Chasing,Sheikh Zayed,BALL,,3,77,
+53,M14,Jagadeesan,CSK,KXIP,LH,Chasing,Sheikh Zayed,BAT,,,4,
+54,M14,Ben Stokes,RR,KKR,LH,Chasing,Dubai,ALL,18,0,28,CAUGHT
+54,M14,Robin Uthappa,RR,KKR,RH,Chasing,Dubai,BAT,6,,20,CAUGHT
+54,M14,Steve Smith,RR,KKR,RH,Chasing,Dubai,BAT,4,,17,BOLD
+54,M14,Sanju Samson,RR,KKR,RH,Chasing,Dubai,WK,1,,21,CAUGHT
+54,M14,Jos Butler,RR,KKR,RH,Chasing,Dubai,WK,35,,53,CAUGHT
+54,M14,Riyag Parag,RR,KKR,RH,Chasing,Dubai,ALL,0,,2,CAUGHT
+54,M14,Rahul Tewatia,RR,KKR,LH,Chasing,Dubai,ALL,31,3,114,CAUGHT
+54,M14,Jofra Archer,RR,KKR,RH,Chasing,Dubai,BALL,6,1,39,CAUGHT
+54,M14,Shreyas Gopal,RR,KKR,RH,Chasing,Dubai,BALL,23,1,48,NO
+54,M14,Varun Aaron,RR,KKR,RH,Chasing,Dubai,BALL,0,0,0,NO
+54,M14,K Tyagi,RR,KKR,RH,Chasing,Dubai,BALL,2,2,54,CAUGHT
+54,M14,Rahul Tripathi,KKR,RR,RH,Defending,Dubai,BAT,39,,51,CAUGHT
+54,M14,Shubman Gill,KKR,RR,RH,Defending,Dubai,BAT,36,,46,CAUGHT
+54,M14,Nitish Rana,KKR,RR,LH,Defending,Dubai,BAT,0,,2,CAUGHT
+54,M14,Dinesh Karthik,KKR,RR,RH,Defending,Dubai,WK,0,,34,CAUGHT
+54,M14,Eoin Morgan,KKR,RR,LH,Defending,Dubai,BAT,68,,97,NO
+54,M14,Sunil Narine,KKR,RR,RH,Defending,Dubai,ALL,0,0,0,CAUGHT
+54,M14,Pat Cummins,KKR,RR,RH,Defending,Dubai,BALL,15,4,137,CAUGHT
+54,M14,Varun Chakravarthy,KKR,RR,RH,Defending,Dubai,BALL,,2,56,
+54,M14,Kamlesh Nagarkoti,KKR,RR,RH,Defending,Dubai,BALL,1,1,40,NO
+54,M14,Shivam Mavi,KKR,RR,RH,Defending,Dubai,BALL,,2,84,
+54,M14,Andre Russell,KKR,RR,RH,Defending,Dubai,ALL,25,,36,CAUGHT
+55,M14,Devdutt Padikkal,RCB,DC,LH,Defending,Sheikh Zayed,BAT,50,,67,BOLD
+55,M14,Josh Phillipe,RCB,DC,RH,Defending,Sheikh Zayed,WK,12,,17,CAUGHT
+55,M14,Virat Kohli,RCB,DC,RH,Defending,Sheikh Zayed,BAT,29,,37,CAUGHT
+55,M14,AB de Villiers,RCB,DC,RH,Defending,Sheikh Zayed,WK,35,,44,RUNOUT
+55,M14,Shivam Dube,RCB,DC,LH,Defending,Sheikh Zayed,ALL,17,,41,CAUGHT
+55,M14,W Sundar,RCB,DC,LH,Defending,Sheikh Zayed,ALL,0,1,31,NO
+55,M14,Chris Morris,RCB,DC,RH,Defending,Sheikh Zayed,ALL,0,0,0,CAUGHT
+55,M14,Mohammed Siraj,RCB,DC,RH,Defending,Sheikh Zayed,BAT,,1,35,
+55,M14,Shahbaz Ahmed,RCB,DC,LH,Defending,Sheikh Zayed,ALL,1,2,55,NO
+55,M14,Isuru Udana,RCB,DC,LH,Defending,Sheikh Zayed,BALL,4,0,3,CAUGHT
+55,M14,Y Chahal,RCB,DC,RH,Defending,Sheikh Zayed,BALL,,0,4,
+55,M14,P.Shaw,DC,RCB,RH,Chasing,Sheikh Zayed,BAT,9,,23,BOLD
+55,M14,Shikhar Dhawan,DC,RCB,LH,Chasing,Sheikh Zayed,BAT,54,,72,CAUGHT
+55,M14,Axar Patel,DC,RCB,LH,Chasing,Sheikh Zayed,ALL,,0,4,
+55,M14,Shreyas Iyer,DC,RCB,RH,Chasing,Sheikh Zayed,BAT,7,,19,CAUGHT
+55,M14,Rishabh Pant,DC,RCB,LH,Chasing,Sheikh Zayed,WK,8,,27,NO
+55,M14,Marcus Stoinis,DC,RCB,RH,Chasing,Sheikh Zayed,ALL,10,,24,NO
+55,M14,Ashwin,DC,RCB,RH,Chasing,Sheikh Zayed,BALL,,1,33,
+55,M14,Daniel Sams,DC,RCB,RH,Chasing,Sheikh Zayed,ALL,,0,2,
+55,M14,Rabada,DC,RCB,RH,Chasing,Sheikh Zayed,BALL,,2,54,
+55,M14,Nortje,DC,RCB,LH,Chasing,Sheikh Zayed,BALL,,3,79,
+55,M14,A Rahane,DC,RCB,RH,Chasing,Sheikh Zayed,BAT,60,,93,
+56,M14,De Kock,MI,SRH,LH,Defending,Sharjah,WK,25,,35,BOLD
+56,M14,S.Yadav,MI,SRH,RH,Defending,Sharjah,BAT,36,,45,STUMPING
+56,M14,Ishan Kishan,MI,SRH,LH,Defending,Sharjah,WK,33,,42,BOLD
+56,M14,Krunal Pandya,MI,SRH,LH,Defending,Sharjah,ALL,0,0,-4,CAUGHT
+56,M14,Rohit Sharma,MI,SRH,RH,Defending,Sharjah,BAT,4,,8,CAUGHT
+56,M14,Kieron Pollard,MI,SRH,RH,Defending,Sharjah,ALL,41,,55,BOLD
+56,M14,Coulter Nile,MI,SRH,RH,Defending,Sharjah,BALL,1,0,5,CAUGHT
+56,M14,Rahul Chahar,MI,SRH,RH,Defending,Sharjah,BALL,,0,2,
+56,M14,Pattinson,MI,SRH,RH,Defending,Sharjah,BALL,4,0,6,NO
+56,M14,D Kulkarni,MI,SRH,RH,Defending,Sharjah,BALL,3,0,7,NO
+56,M14,Saurabh Tiwary,MI,SRH,LH,Defending,Sharjah,BAT,1,,5,CAUGHT
+56,M14,Warner,SRH,MI,LH,Chasing,Sharjah,BAT,85,,117,NO
+56,M14,W Saha,SRH,MI,RH,Chasing,Sharjah,WK,58,,99,NO
+56,M14,Manish Pandey,SRH,MI,RH,Chasing,Sharjah,BAT,,,4,
+56,M14,Kane Williamson,SRH,MI,RH,Chasing,Sharjah,BAT,,,12,
+56,M14,Jason Holder,SRH,MI,RH,Chasing,Sharjah,ALL,,2,54,
+56,M14,Priyam Garg,SRH,MI,RH,Chasing,Sharjah,BAT,,,12,
+56,M14,Abdul Samad,SRH,MI,LH,Chasing,Sharjah,ALL,,,4,
+56,M14,Shahbaz Nadeem,SRH,MI,RH,Chasing,Sharjah,BAT,,2,58,
+56,M14,Rashid Khan,SRH,MI,RH,Chasing,Sharjah,BALL,,1,29,
+56,M14,Sandeep Sharma,SRH,MI,LH,Chasing,Sharjah,BALL,,3,79,
+56,M14,Natarajan,SRH,MI,LH,Chasing,Sharjah,BALL,,0,2,
+57,M15,De Kock,MI,DC,LH,Defending,Dubai,WK,40,,67,CAUGHT
+57,M15,S.Yadav,MI,DC,RH,Defending,Dubai,BAT,51,,81,CAUGHT
+57,M15,Ishan Kishan,MI,DC,LH,Defending,Dubai,WK,55,,77,NO
+57,M15,Krunal Pandya,MI,DC,LH,Defending,Dubai,ALL,13,1,46,CAUGHT
+57,M15,Rohit Sharma,MI,DC,RH,Defending,Dubai,BAT,0,,10,LBW
+57,M15,Kieron Pollard,MI,DC,RH,Defending,Dubai,ALL,0,1,25,CAUGHT
+57,M15,Coulter Nile,MI,DC,RH,Defending,Dubai,BALL,,0,4,
+57,M15,Rahul Chahar,MI,DC,RH,Defending,Dubai,BALL,,0,6,
+57,M15,Boult,MI,DC,LH,Defending,Dubai,BALL,,2,66,
+57,M15,Bumrah,MI,DC,RH,Defending,Dubai,BALL,,4,126,
+57,M15,Hardik Pandya,MI,DC,RH,Defending,Dubai,ALL,37,,51,NO
+57,M15,P.Shaw,DC,MI,RH,Chasing,Dubai,BAT,0,,2,CAUGHT
+57,M15,Shikhar Dhawan,DC,MI,LH,Chasing,Dubai,BAT,0,,10,BOLD
+57,M15,Axar Patel,DC,MI,LH,Chasing,Dubai,ALL,42,0,52,CAUGHT
+57,M15,Shreyas Iyer,DC,MI,RH,Chasing,Dubai,BAT,12,,19,CAUGHT
+57,M15,Rishabh Pant,DC,MI,LH,Chasing,Dubai,WK,3,,7,CAUGHT
+57,M15,Marcus Stoinis,DC,MI,RH,Chasing,Dubai,ALL,65,1,114,BOLD
+57,M15,Ashwin,DC,MI,RH,Chasing,Dubai,BALL,,3,79,
+57,M15,Daniel Sams,DC,MI,RH,Chasing,Dubai,ALL,0,0,14,CAUGHT
+57,M15,Rabada,DC,MI,RH,Chasing,Dubai,BALL,15,0,25,NO
+57,M15,Nortje,DC,MI,LH,Chasing,Dubai,BALL,,1,23,
+57,M15,A Rahane,DC,MI,RH,Chasing,Dubai,BAT,0,,2,LBW
+58,M15,Devdutt Padikkal,RCB,SRH,LH,Defending,Sheikh Zayed,BAT,1,,5,CAUGHT
+58,M15,Aaron Finch,RCB,SRH,RH,Defending,Sheikh Zayed,WK,32,,41,CAUGHT
+58,M15,Virat Kohli,RCB,SRH,RH,Defending,Sheikh Zayed,BAT,6,,10,CAUGHT
+58,M15,AB de Villiers,RCB,SRH,RH,Defending,Sheikh Zayed,WK,56,,97,BOLD
+58,M15,Shivam Dube,RCB,SRH,LH,Defending,Sheikh Zayed,ALL,8,0,10,CAUGHT
+58,M15,W Sundar,RCB,SRH,LH,Defending,Sheikh Zayed,ALL,5,0,5,CAUGHT
+58,M15,Moeen Ali,RCB,SRH,LH,Defending,Sheikh Zayed,ALL,0,0,2,RUNOUT
+58,M15,Mohammed Siraj,RCB,SRH,RH,Defending,Sheikh Zayed,BAT,10,2,65,NO
+58,M15,Adam Zampa,RCB,SRH,RH,Defending,Sheikh Zayed,BALL,,1,43,
+58,M15,Navdeep Saini,RCB,SRH,RH,Defending,Sheikh Zayed,BALL,9,0,14,NO
+58,M15,Y Chahal,RCB,SRH,RH,Defending,Sheikh Zayed,BALL,,1,31,
+58,M15,Warner,SRH,RCB,LH,Chasing,Sheikh Zayed,BAT,17,,32,CAUGHT
+58,M15,S Goswami,SRH,RCB,RH,Chasing,Sheikh Zayed,WK,0,,10,CAUGHT
+58,M15,Manish Pandey,SRH,RCB,RH,Chasing,Sheikh Zayed,BAT,24,,33,CAUGHT
+58,M15,Kane Williamson,SRH,RCB,RH,Chasing,Sheikh Zayed,BAT,50,,68,NO
+58,M15,Jason Holder,SRH,RCB,RH,Chasing,Sheikh Zayed,ALL,24,3,106,NO
+58,M15,Priyam Garg,SRH,RCB,RH,Chasing,Sheikh Zayed,BAT,7,,15,CAUGHT
+58,M15,Abdul Samad,SRH,RCB,LH,Chasing,Sheikh Zayed,ALL,,,20,
+58,M15,Shahbaz Nadeem,SRH,RCB,RH,Chasing,Sheikh Zayed,BAT,,1,29,
+58,M15,Rashid Khan,SRH,RCB,RH,Chasing,Sheikh Zayed,BALL,,0,18,
+58,M15,Sandeep Sharma,SRH,RCB,LH,Chasing,Sheikh Zayed,BALL,,0,6,
+58,M15,Natarajan,SRH,RCB,LH,Chasing,Sheikh Zayed,BALL,,2,54,
+59,M16,Marcus Stoinis,DC,SRH,RH,Defending,Sheikh Zayed,ALL,38,3,132,BOLD
+59,M16,Shikhar Dhawan,DC,SRH,LH,Defending,Sheikh Zayed,BAT,78,,100,LBW
+59,M16,Shreyas Iyer,DC,SRH,RH,Defending,Sheikh Zayed,BAT,21,,26,CAUGHT
+59,M16,Hetmeyer,DC,SRH,LH,Defending,Sheikh Zayed,BAT,42,,52,NO
+59,M16,Rishabh Pant,DC,SRH,LH,Defending,Sheikh Zayed,WK,2,,6,NO
+59,M16,A Rahane,DC,SRH,RH,Defending,Sheikh Zayed,BAT,,,4,
+59,M16,Axar Patel,DC,SRH,LH,Defending,Sheikh Zayed,BALL,,1,37,
+59,M16,Rabada,DC,SRH,LH,Defending,Sheikh Zayed,BALL,,4,120,
+59,M16,Nortje,DC,SRH,RH,Defending,Sheikh Zayed,BALL,,0,10,
+59,M16,Ashwin,DC,SRH,RH,Defending,Sheikh Zayed,BALL,,0,0,
+59,M16,Praveen Dubey,DC,SRH,RH,Defending,Sheikh Zayed,BALL,,0,12,
+59,M16,S Goswami,SRH,DC,RH,Chasing,Sheikh Zayed,WK,0,,2,CAUGHT
+59,M16,Warner,SRH,DC,LH,Chasing,Sheikh Zayed,BAT,2,,6,BOLD
+59,M16,Manish Pandey,SRH,DC,RH,Chasing,Sheikh Zayed,BAT,21,,36,CAUGHT
+59,M16,Kane Williamson,SRH,DC,RH,Chasing,Sheikh Zayed,BAT,67,,92,CAUGHT
+59,M16,Jason Holder,SRH,DC,RH,Chasing,Sheikh Zayed,ALL,11,1,35,CAUGHT
+59,M16,Priyam Garg,SRH,DC,RH,Chasing,Sheikh Zayed,BAT,17,,25,BOLD
+59,M16,Abdul Samad,SRH,DC,LH,Chasing,Sheikh Zayed,ALL,33,,43,CAUGHT
+59,M16,Shahbaz Nadeem,SRH,DC,RH,Chasing,Sheikh Zayed,BAT,2,0,0,NO
+59,M16,Rashid Khan,SRH,DC,RH,Chasing,Sheikh Zayed,BALL,11,1,43,CAUGHT
+59,M16,Sandeep Sharma,SRH,DC,LH,Chasing,Sheikh Zayed,BALL,2,1,31,NO
+59,M16,Natarajan,SRH,DC,LH,Chasing,Sheikh Zayed,BALL,,0,4,
+60,M17,Marcus Stoinis,DC,MI,RH,Defending,Dubai,ALL,0,1,21,CAUGHT
+60,M17,Shikhar Dhawan,DC,MI,LH,Defending,Dubai,BAT,15,,22,BOLD
+60,M17,Shreyas Iyer,DC,MI,RH,Defending,Dubai,BAT,65,,87,NO
+60,M17,Hetmeyer,DC,MI,LH,Defending,Dubai,BAT,5,,10,CAUGHT
+60,M17,Rishabh Pant,DC,MI,LH,Defending,Dubai,WK,56,,90,CAUGHT
+60,M17,A Rahane,DC,MI,RH,Defending,Dubai,BAT,2,,14,CAUGHT
+60,M17,Axar Patel,DC,MI,LH,Defending,Dubai,BALL,9,0,18,CAUGHT
+60,M17,Rabada,DC,MI,LH,Defending,Dubai,BALL,0,1,25,RUNOUT
+60,M17,Nortje,DC,MI,RH,Defending,Dubai,BALL,,2,52,
+60,M17,Ashwin,DC,MI,RH,Defending,Dubai,BALL,,0,4,
+60,M17,Praveen Dubey,DC,MI,RH,Defending,Dubai,BALL,,0,8,
+60,M16,De Kock,MI,DC,LH,Defending,Dubai,WK,20,,45,CAUGHT
+60,M16,S.Yadav,MI,DC,RH,Defending,Dubai,BAT,19,,32,RUNOUT
+60,M16,Ishan Kishan,MI,DC,LH,Defending,Dubai,WK,33,,42,NO
+60,M16,Krunal Pandya,MI,DC,LH,Defending,Dubai,ALL,1,0,3,NO
+60,M16,Rohit Sharma,MI,DC,RH,Defending,Dubai,BAT,68,,93,CAUGHT
+60,M16,Kieron Pollard,MI,DC,RH,Defending,Dubai,ALL,9,0,15,BOLD
+60,M16,Coulter Nile,MI,DC,RH,Defending,Dubai,BALL,,2,68,
+60,M16,J Yadav,MI,DC,RH,Defending,Dubai,ALL,,1,29,
+60,M16,Boult,MI,DC,LH,Defending,Dubai,BALL,, ,79,
+60,M16,Bumrah,MI,DC,RH,Defending,Dubai,BALL,,0,4,
+60,M16,Hardik Pandya,MI,DC,RH,Defending,Dubai,ALL,3,,15,CAUGHT
+,,,,,,,,,,,,RUNOUT
